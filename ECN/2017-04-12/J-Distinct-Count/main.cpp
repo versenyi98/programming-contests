@@ -30,12 +30,5 @@ int main() {
     } else {
       cout << "Average" << endl;
     }
-
-
   }
-
-
-
-
-
 }

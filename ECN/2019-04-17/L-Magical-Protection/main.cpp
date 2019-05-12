@@ -21,6 +21,12 @@ void expandVoldemort(vector<string> &v, int x, int y, int h, int w) {
   expandVoldemort(v, x+1, y+0, h, w);
 }
 
+void expandDumbledore(vector<string> &v, int x, int y, int h, int w) {
+  if (y >= h || y < 0 || x >= w || x < 0) return;
+
+  v[y][x] = '1';
+}
+
 void solve(vector<string> &v, int &hx, int &hy, int &dx, int &dy, int &vx, int &vy) {
 
   for (int i = 0; i < v.size(); i++) {
@@ -47,35 +53,17 @@ void solve(vector<string> &v, int &hx, int &hy, int &dx, int &dy, int &vx, int &
     }
   }
 
-/*
-  cout << hx << ' ' << hy << endl;
-  cout << dx << ' ' << dy << endl;
-  cout << vx << ' ' << vy << endl;
-
-  printV(v);
-*/
-
   //Dumbledore Walls;
-  for (int i = dy; i < v.size(); i++) {
-    if (i == dy) continue;
-    if (v[i][dx] == '1') break;
-    v[i][dx] = '1';
-  }
-  for (int i = dy; i >= 0; i--) {
-    if (i == dy) continue;
-    if (v[i][dx] == '1') break;
-    v[i][dx] = '1';
-  }
-  for (int j = dx; j < v[dy].size(); j++) {
-    if (j == dx) continue;
-    if (v[dy][j] == '1') break;
-    v[dy][j] = '1';
-  }
-  for (int j = dx; j >= 0; j--) {
-    if (j == dx) continue;
-    if (v[dy][j] == '1') break;
-    v[dy][j] = '1';
-  }
+  expandDumbledore(v, dx - 1, dy - 1, v.size(), v[vy].length());
+  expandDumbledore(v, dx - 1, dy - 0, v.size(), v[vy].length());
+  expandDumbledore(v, dx - 1, dy + 1, v.size(), v[vy].length());
+  expandDumbledore(v, dx, dy, v.size(), v[vy].length());
+  expandDumbledore(v, dx - 0, dy + 1, v.size(), v[vy].length());
+  expandDumbledore(v, dx - 0, dy - 1, v.size(), v[vy].length());
+  expandDumbledore(v, dx + 1, dy - 1, v.size(), v[vy].length());
+  expandDumbledore(v, dx + 1, dy - 0, v.size(), v[vy].length());
+  expandDumbledore(v, dx + 1, dy - 1, v.size(), v[vy].length());
+
   //printV(v);
   expandVoldemort(v, vx, vy, v.size(), v[vy].length());
   //printV(v);

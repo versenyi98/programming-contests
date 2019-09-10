@@ -1,12 +1,8 @@
 #include <iostream>
-#include <map>
 #include <algorithm>
+#include <stdio.h>
 
 using namespace std;
-
-int getDecOfHex(char ch) {
-  return (int) ch <= 57 ? (int)ch - '0' : (int)ch - 'a' + 10;
-}
 
 void floodFill(int img[][200], int brush, int i, int j, int height, int width, int target) {
 
@@ -38,6 +34,7 @@ int findNeighbour(int img[][200], int i, int j, int di, int dj, int height, int 
 }
 
 int main() {
+
   char holesToSign[6];
 
   holesToSign[0] = 'W';
@@ -65,12 +62,12 @@ int main() {
       for (int j = 0; j < m; j++) {
 
         int l = 8;
-        char ch;
-        cin >> ch;
+        int hexa;
 
-        int decValue = getDecOfHex(ch);
+        scanf("%1x", &hexa);
+
         for (int k = 0; k < 4; k++) {
-          img[i][j * 4 + k] = (decValue & l ? 1 : 0);
+          img[i][j * 4 + k] = (hexa & l ? 1 : 0);
           l = l >> 1;
         }
       }

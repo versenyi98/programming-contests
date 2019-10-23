@@ -99,33 +99,32 @@ string elozo() {
     }    
 }
 
-int main() {
-
-    cin >> n >> betuk >> szo;
+void kitolt_szabad() {
+    
+    for (int i = 0; i < n; i++) {
+        szabad[betuk[i]] = 0;
+    }
 
     for (int i = 0; i < n; i++) {
         szabad[betuk[i]]++;
     }
-
+    
     for (int i = 0; i < szo.length(); i++) {
         szabad[szo[i]]--;
     }
+
+
+}
+
+int main() {
+
+    cin >> n >> betuk >> szo;
     string elso = szo;
 
     do {
         cout << szo << endl;
         szo = elozo();
-
-        for (int i = 0; i < n; i++) {
-            szabad[betuk[i]] = 0;
-        }
-
-        for (int i = 0; i < n; i++) {
-            szabad[betuk[i]]++;
-        }
-        for (int i = 0; i < szo.length(); i++) {
-            szabad[szo[i]]--;
-        }
+        kitolt_szabad();
 
     } while (elso.compare(szo) != 0);
 
@@ -134,18 +133,7 @@ int main() {
     do {
         cout << szo << endl;
         szo = kovetkezo();
-
-        for (int i = 0; i < n; i++) {
-            szabad[betuk[i]] = 0;
-        }
-
-        for (int i = 0; i < n; i++) {
-            szabad[betuk[i]]++;
-        }
-        for (int i = 0; i < szo.length(); i++) {
-            szabad[szo[i]]--;
-        }
+        kitolt_szabad();
 
     } while (elso.compare(szo) != 0);
-
 }

@@ -4,7 +4,6 @@
 using namespace std;
 
 map <char, int> szabad;
-map <char, int> felhasznalt;
 
 int n;
 string szo;
@@ -52,29 +51,40 @@ string elozo() {
         return szo.substr(0, szo.length() - 1);
     }
 
+// Nem teljes szó előzője
+
     char levagott = szo[szo.length() - 1];
-    szo = szo.substr(0, szo.length() - 1);
+    string ret_str  = szo.substr(0, szo.length() - 1);
     szabad_cp[levagott]++;
 
-// Nem teljes szó előzője
-    for (auto i : szabad_cp) {
-        if (i.second && i.first < levagott) {
-            szabad_cp[i.first]--;
-            string ret = szo + string(1, i.first);
 
-            while (true) {
-                char utolso = ' ';
-                for (auto j : szabad_cp) {
-                    if (j.second) utolso = j.first;
-                }
-                if (utolso == ' ') return ret;
-                ret += utolso;
-                szabad_cp[utolso]--;
-            }    
+    char maximum = (char) 0;
+
+    for (auto i : szabad_cp) {
+        if (i.second && i.first > maximum && i.first < levagott) {
+            maximum = i.first;
         }
     }
 
-    if (szo.length() != 0) return szo;
+    if (maximum == (char) 0 && ret_str.length() != 0) {
+        return ret_str;
+    } else if (maximum != (char) 0) {
+        ret_str += maximum;
+        szabad_cp[maximum]--;
+
+        while (true) {
+            char utolso = ' ';
+            for (auto j : szabad_cp) {
+                if (j.second) utolso = j.first;
+            }
+            
+            if (utolso == ' ') {
+                return ret_str;
+            }
+            ret_str += utolso;
+            szabad_cp[utolso]--;
+        }  
+    }
     
 // Első szó előzője az utolsó szó
     string ret = "";
@@ -98,10 +108,44 @@ int main() {
     }
 
     for (int i = 0; i < szo.length(); i++) {
-        felhasznalt[szo[i]]++;
         szabad[szo[i]]--;
     }
+    string elso = szo;
 
-    cout << elozo() << endl << kovetkezo() << endl;
+    do {
+        cout << szo << endl;
+        szo = elozo();
+
+        for (int i = 0; i < n; i++) {
+            szabad[betuk[i]] = 0;
+        }
+
+        for (int i = 0; i < n; i++) {
+            szabad[betuk[i]]++;
+        }
+        for (int i = 0; i < szo.length(); i++) {
+            szabad[szo[i]]--;
+        }
+
+    } while (elso.compare(szo) != 0);
+
+    cout << endl;
+
+    do {
+        cout << szo << endl;
+        szo = kovetkezo();
+
+        for (int i = 0; i < n; i++) {
+            szabad[betuk[i]] = 0;
+        }
+
+        for (int i = 0; i < n; i++) {
+            szabad[betuk[i]]++;
+        }
+        for (int i = 0; i < szo.length(); i++) {
+            szabad[szo[i]]--;
+        }
+
+    } while (elso.compare(szo) != 0);
 
 }

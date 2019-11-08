@@ -62,7 +62,6 @@ int main() {
     });
 
     for (auto i : traffic2) {
-
         if (i.s.s) {
             cout << i.f.f << " " << trains[i.f.f] << " - " << i.f.s << " " << trains[i.f.s] << ", number of trains\n";
             continue;
@@ -71,9 +70,6 @@ int main() {
         if (i.s.f) {
             cout << i.f.f << " " << trains[i.f.f] << " - " << i.f.s << " " << trains[i.f.s] << ", restrictions\n";
             continue;
-        }
-
-        
-        
+        }      
     }
 }

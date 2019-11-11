@@ -6,42 +6,25 @@ using namespace std;
 
 int n;
 int emberek[10000];
-bool eritve[10000];
-int ertek[10000];
-int korok[10000];
+int kor_nagysaga[10000];
+int erintes_datuma[10000];
 
 int max_h = 0;
 int eleje = 0;
 
-int kor = -1;
-
-void korbe(int aktual, int len) {
+void korbe(int aktual, int len, int jelen_erintes) {
 	
-	if (korok[aktual - 1] != 0) {
-		return;
-	}
-
-	if (eritve[aktual - 1]) {
-		if (len - ertek[aktual - 1] > max_h) {
-			max_h = len - ertek[aktual - 1];
+	if (erintes_datuma[aktual - 1] == jelen_erintes) {
+		if (len - kor_nagysaga[aktual - 1] > max_h) {
+			max_h = len - kor_nagysaga[aktual - 1];
 			eleje = aktual;
 		}
-		kor = len - ertek[aktual - 1];
-		korok[aktual - 1] = kor;
 		return;
 	}
 
-	ertek[aktual - 1] = len;
-	eritve[aktual - 1] = true;
-	korbe(emberek[aktual - 1], len + 1);
-
-	if (kor > 0) {
-		if (korok[aktual - 1] > 0) {
-			kor = -1;
-			return;
-		}
-		korok[aktual - 1] = kor;
-	}
+	kor_nagysaga[aktual - 1] = len;
+	erintes_datuma[aktual - 1] = jelen_erintes;
+	korbe(emberek[aktual - 1], len + 1, jelen_erintes);
 }
 
 int main() {
@@ -50,12 +33,13 @@ int main() {
 
 	for (int i = 0; i < n; i++) {
 		cin >> emberek[i];
-		korok[i] = 0;
+		kor_nagysaga[i] = 0;
+		erintes_datuma[i] = -1;
 	}
 
 	for (int i = 0; i < n; i++) {
-		if (!eritve[i]) {
-			korbe(emberek[i], 0);
+		if (erintes_datuma[i] == -1) {
+			korbe(emberek[i], 0, i);
 		}
 	}
 

@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio.h>
 
 using namespace std;
 
@@ -33,11 +34,11 @@ int main() {
 		dn[0][0] = max(bloggium[0][0], yeayenum[0][0]);
 
 		for (int i = 1; i < n; i++) {
-			dn[0][i] = max(dn[0][i - 1] + bloggium[0][i], yeayenum[0][i]);
+			dn[i][0] = max(bloggium[i][0], dn[i - 1][0] + yeayenum[i][0]);
 		}
 
 		for (int i = 1; i < m; i++) {
-			dn[i][0] = max(yeayenum[i][0] + dn[i - 1][0], bloggium[i][0]);
+			dn[0][i] = max(yeayenum[0][i], bloggium[0][i] + dn[0][i - 1]);
 		}
 
 		for (int i = 1; i < n; i++) {

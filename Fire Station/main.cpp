@@ -72,14 +72,10 @@ int main() {
                 }
             }
 
-            int count = 0;
+            int count = -MINUS_INF;
             for (int i = 1; i <= number_of_intersections; i++) {
-                count += dist[i];
+                count = min(dist[i], count);
             }
-            
-            cout << tt << " " << count << " " << endl;
-            //for (int i = 1; i <= number_of_intersections; i++) cout << dist[i] << " ";
-            //cout << endl;
 
             if (count > maximum) {
                 maximum = count;
@@ -88,7 +84,6 @@ int main() {
         } 
 
         cout << max_pos << endl;
-        cout << endl;
+        if (test_cases) cout << endl;
     }
-
 }

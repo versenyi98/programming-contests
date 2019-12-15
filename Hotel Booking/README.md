@@ -1,0 +1,1 @@
+<mennyi hotelt kellett eddig meglátogatni * 1000 + mennyi ideje volt utoljára sleep, hol vagyunk jelenleg>

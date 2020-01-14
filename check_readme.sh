@@ -8,6 +8,7 @@ do
     if [[ -d $dir ]]
     then
         cd $dir
+        touch README.md
         echo -e "$dir" ' \t ' "$(cat README.md)"
         cd ..
     fi

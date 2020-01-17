@@ -49,7 +49,7 @@ int main() {
                 dp[0][i] = 0;
             }
 
-            // lcm dp
+            // longest common subsequence dp
             for (int i = 1; i <= actual_values.size(); i++) {
                 for (int j = 1; j <= actual_values.size(); j++) {
                     if (actual_values[i - 1] == correct_dp[j - 1]) {

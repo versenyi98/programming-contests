@@ -1,0 +1,1 @@
+Téma: OKTV 2018/19 2. forduló 3. feladat

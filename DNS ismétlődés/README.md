@@ -1,0 +1,1 @@
+Felhasználó: Versényi Péter, Téma: Rekurzív adatszerkezetek, Feladat: ﻿DNS ismétlődés ***

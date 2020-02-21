@@ -1,0 +1,1 @@
+Téma: Rekurzív kiszámítás, Feladat: ﻿Járda 1 – 1x1,1x2,1x3 *

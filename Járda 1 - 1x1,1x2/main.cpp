@@ -3,11 +3,11 @@
 using namespace std;
 
 bool taken[81];
-int dp[81];
+uint64_t dp[81];
 
 int n;
 
-int dynamic(int s) {
+uint64_t dynamic(int s) {
 
     if (s == 0) return 1;
     if (s < 0) return 0;

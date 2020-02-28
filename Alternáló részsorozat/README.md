@@ -1,0 +1,1 @@
+Leghosszabb alternáló részsorozat   

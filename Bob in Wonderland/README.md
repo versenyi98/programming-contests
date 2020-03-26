@@ -1,0 +1,1 @@
+https://contest.felk.cvut.cz/19cerc/solved/bw/

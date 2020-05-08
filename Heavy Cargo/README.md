@@ -1,1 +1,1 @@
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=485&mosmsg=Submission+received+with+ID+24272708
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=485

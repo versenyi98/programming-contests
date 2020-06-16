@@ -6,7 +6,9 @@ int main() {
 
     int n, m;
 
-    while (cin >> n >> m, n || m) {
+    while (scanf("%d %d", &n, &m), n || m) {
+        int from[m], to[m];
+        long cost[m];
 
         vector<pair<int, long>> road[n];
         bool visited[n];
@@ -19,28 +21,26 @@ int main() {
         for (int i = 0; i < m; i++) {
             int f, t;
             long ppa;
-            cin >> f >> t >> ppa;
-            road[f - 1].push_back({t - 1, ppa});
-            road[t - 1].push_back({f - 1, ppa});
+            scanf("%d %d %ld", &f, &t, &ppa);
+
+            from[i] = f - 1;
+            to[i] = t - 1;
+            cost[i] = ppa ;
 
             maximumPPA = max(maximumPPA, ppa);
+        }
+
+        for (int i = 0; i < m; i++) {
+            if (cost[i] == maximumPPA) {
+                road[from[i]].push_back({to[i], cost[i]});
+                road[to[i]].push_back({from[i], cost[i]});
+            }
         }
 
         int max_cities = 0;
 
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-
-                bool f = false;
-
-                for (auto j : road[i]) 
-                    if (j.second == maximumPPA) {
-                        f = true;
-                        break;
-                    }
-
-                if (!f) continue;
-
                 queue<int> q;
                 q.push(i);
 
@@ -56,7 +56,7 @@ int main() {
                     counter++;
 
                     for (auto j : road[front]) {
-                        if (j.second == maximumPPA && !visited[j.first]) {
+                        if (!visited[j.first]) {
                             q.push(j.first);
                         }
                     }
@@ -64,6 +64,6 @@ int main() {
                 max_cities = max(max_cities, counter);
             }
         }
-        cout << max_cities << endl;
+        printf("%d\n", max_cities);
     }
 }

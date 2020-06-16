@@ -10,7 +10,7 @@ int main() {
         int from[m], to[m];
         long cost[m];
 
-        vector<pair<int, long>> road[n];
+        vector<int> road[n];
         bool visited[n];
         long maximumPPA = LONG_MIN;
 
@@ -32,8 +32,8 @@ int main() {
 
         for (int i = 0; i < m; i++) {
             if (cost[i] == maximumPPA) {
-                road[from[i]].push_back({to[i], cost[i]});
-                road[to[i]].push_back({from[i], cost[i]});
+                road[from[i]].push_back(to[i]);
+                road[to[i]].push_back(from[i]);
             }
         }
 
@@ -56,8 +56,8 @@ int main() {
                     counter++;
 
                     for (auto j : road[front]) {
-                        if (!visited[j.first]) {
-                            q.push(j.first);
+                        if (!visited[j]) {
+                            q.push(j);
                         }
                     }
                 }

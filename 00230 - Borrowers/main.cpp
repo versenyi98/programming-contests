@@ -30,9 +30,9 @@ int main() {
 
                 auto ind = distance(in_lib.begin(), upper_bound(in_lib.begin(), in_lib.end(), back));
                 if (ind > 0) {
-                    std::cout << "Put " << back.second << " after " << in_lib[ind - 1].second << endl;
+                    cout << "Put " << back.second << " after " << in_lib[ind - 1].second << endl;
                 } else {
-                    std::cout << "Put " << back.second << " first" << endl;
+                    cout << "Put " << back.second << " first" << endl;
                 }     
 
                 in_lib.insert(in_lib.begin() + ind, back);

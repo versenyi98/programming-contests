@@ -8,4 +8,4 @@ cd "$FOLDER_NAME"
 touch in main.cpp README.md
 echo $2 > README.md
 
-code .
+code . *

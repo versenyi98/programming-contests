@@ -33,40 +33,32 @@ int main() {
             actual += spiral_num * 2 - 1;
             x -= spiral_num * 2 - 1;
         } else {
-            for (uint64_t i = 0; i < spiral_num * 2 - 1 && actual != m; i++) {
-                actual++;
-                x--;
-            }
+            x -= (m - actual);
+            actual = m;
         }
 
         if (actual + spiral_num * 2 < m) {
             actual += spiral_num * 2;
             y -= spiral_num * 2;
         } else {
-            for (uint64_t i = 0; i < spiral_num * 2 && actual != m; i++) {
-                actual++;
-                y--;
-            }
+            y -= (m - actual);
+            actual = m;
         }
 
         if (actual + spiral_num * 2 < m) {
             actual += spiral_num * 2;
             x += spiral_num * 2;
         } else {
-            for (uint64_t i = 0; i < spiral_num * 2 && actual != m; i++) {
-                actual++;
-                x++;
-            }
+            x += (m - actual);
+            actual = m;
         }
 
         if (actual + spiral_num * 2 < m) {
             actual += spiral_num * 2;
             y += spiral_num * 2;
         } else {
-            for (uint64_t i = 0; i < spiral_num * 2 && actual != m; i++) {
-                actual++;
-                y++;
-            }
+            y += (m - actual);
+            actual = m;
         }
         cout << "Line = " << y << ", column = " << x << "." << endl;
     }

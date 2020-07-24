@@ -36,8 +36,6 @@ struct submission {
 
 int main() {
 
-	std::ios_base::sync_with_stdio(false);
-
 	int test_cases = 0;
 	cin >> test_cases;
 	string line;

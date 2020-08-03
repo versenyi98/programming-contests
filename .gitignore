@@ -1,4 +1,5 @@
-/Ignore/*
 main
 .vscode
 out
+submit.py
+.kattissrc

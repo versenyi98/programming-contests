@@ -9,4 +9,4 @@ touch in main.cpp README.md
 echo $2 > README.md
 printf "#include <bits/stdc++.h>\n\nusing namespace std;\n\nint main() {\n\n\treturn 0;\n}" > main.cpp
 
-code .. ./*
+code ../../ ./*

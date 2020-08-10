@@ -15,10 +15,7 @@ int main() {
             cin >> t1 >> t2;
             sum += t1 * t2;
         }
-        
+
         cout << sum / W << endl;
     }
-
-
-
 }

@@ -50,6 +50,7 @@
 | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   
+| [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
 | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
 | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   

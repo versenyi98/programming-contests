@@ -2,62 +2,40 @@
 
 using namespace std;
 
-map<pair<int, pair<int, int>>, uint64_t> precalced;
-
-uint64_t factorial(int n) {
-	if (n) return n * factorial(n - 1);
-	return 1;
-}
-
 int main() {
 
-	// Precalc
-	for (int i = 1; i <= 13; i++) {
-		map<pair<int, pair<int, int>>, uint64_t> mapping;
+	uint64_t res[14][14][14];
 
-		vector<int> v;
-		for (int j = 0; j < i; j++) {
-			v.push_back(j + 1);
-		}
-
-		for (uint64_t j = 0; j < factorial(i); j++) {
-			int from_start = 0, from_start_val = 0;
-			int from_end = 0, from_end_val = 0;
-
-			for (int k = 0; k < i; k++) {
-				if (v[k] > from_start_val) {
-					from_start++;
-					from_start_val = v[k];
-				}	
+	for (int i = 0; i < 14; i++) {
+		for (int j = 0; j < 14; j++) {
+			for (int k = 0; k < 14; k++) {
+				res[i][j][k] = 0;
 			}
-			
-			for (int k = i - 1; k >= 0; k--) {
-				if (v[k] > from_end_val) {
-					from_end++;
-					from_end_val = v[k];
-				}
-			}
-
-			mapping[{i, {from_start, from_end}}]++;
-
-			next_permutation(v.begin(), v.end());
-		}
-		
-		for (auto i : mapping) {
-		cout << "\tprecalced[{" << i.first.first << ", {" << i.first.second.first << ", " << i.first.second.second << "}}] = " << i.second << ";" << endl;;
 		}
 	}
-	return 0;
+
+	res[1][1][1] = 1;
+
+	for (int n = 2; n <= 13; n++) {
+		for (int i = 1; i <= n; i++) {
+			for (int j = 1; j <= n; j++) {
+
+				// base case: n = 4 i = 2 j = 2
+				// 1 n = 3 i = 1 j = 2  --->  3 1 2 ---> 4 2 3 ---> 1 4 2 3
+				// 2 n = 3 i = 2 j = 1  --->  2 1 3 ---> 3 2 4 ---> 3 2 4 1
+				// 3 n = 3 i = 2 j = 2  --->  1 3 2, 2 3 1 ---> 2 . 4 . 3, 3 . 4 . 2
+				res[n][i][j] = res[n - 1][i - 1][j] + res[n - 1][i][j - 1] + (n - 2) * res[n - 1][i][j];
+			}
+		}
+	}
 
 	int test_cases;
 	cin >> test_cases;
-
 	while (test_cases--) {
-		int n, n1, n2;
-		cin >> n >> n1 >> n2;
-		cout << precalced[{n, {n1, n2}}] << endl;
+		int i, j, k;
+		cin >> i >> j >> k;
+		cout << res[i][j][k] << endl;
 	}
-
 
 	return 0;
 }

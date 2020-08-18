@@ -29,6 +29,7 @@
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Image%20Processing)|   
 | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   
 | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
+| [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
 | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   
 | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Knigs%20of%20the%20Forest)|   
 | [Litespace](https://open.kattis.com/problems/litespace   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Litespace)|   

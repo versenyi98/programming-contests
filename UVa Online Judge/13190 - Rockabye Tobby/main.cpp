@@ -32,7 +32,6 @@ int main() {
 			cout << top.first.first << ' ' << top.second.second << endl;
 			pq.push({{top.first.first + top.second.first, top.first.second}, top.second});
 		}
-
 	}
 
 	return 0;

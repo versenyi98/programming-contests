@@ -17,7 +17,6 @@ int main() {
 			count[c - 'A']++;
 		}
 		cout << min(count['M' - 'A'], min(count[0] / 3, min(count['R' - 'A'] / 2, min(count['G' - 'A'], min(count['I' - 'A'], count['T' - 'A']))))) << endl;
-
 	}
 
 	return 0;

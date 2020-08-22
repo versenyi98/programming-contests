@@ -7,6 +7,7 @@
 | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
+| [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   
 | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   
 | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   
 | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bungee%20Builder)|   

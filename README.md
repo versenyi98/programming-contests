@@ -41,6 +41,7 @@
 | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
 | [Pivot]() | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
+| [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
 | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   

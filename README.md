@@ -31,7 +31,9 @@
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Image%20Processing)|   
 | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   
 | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
+| [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
 | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   
+| [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Knigs%20of%20the%20Forest)|   
 | [Litespace](https://open.kattis.com/problems/litespace   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Litespace)|   
 | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|   
 | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   
@@ -39,6 +41,7 @@
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
 | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
+| [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   
 | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
 | [Pivot]() | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
@@ -52,6 +55,7 @@
 | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   
+| [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
 | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
 | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
@@ -155,6 +159,7 @@
 | [01174 - IP-TV](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3615) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01174%20-%20IP-TV)|   
 | [01196 - Tiling Up Blocks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=3637) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01196%20-%20Tiling%20Up%20Blocks)|   
 | [01202 - Finding Nemo](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=3643) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01202%20-%20Finding%20Nemo)|   
+| [01203 - Argus](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3644) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01203%20-%20Argus)|   
 | [01208 - Oreon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3649) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01208%20-%20Oreon)|   
 | [01209 - Wordfish](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=3650) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01209%20-%20Wordfish)|   
 | [01213 - Sum of Different Primes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=3654) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01213%20-%20Sum%20of%20Different%20Primes)|   

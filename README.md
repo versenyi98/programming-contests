@@ -53,6 +53,7 @@
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
 | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
+| [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   
 | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sim)|   
 | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   

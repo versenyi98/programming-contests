@@ -12,6 +12,7 @@
 | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   
 | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bungee%20Builder)|   
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
+| [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
@@ -314,6 +315,7 @@
 | [11824 - A Minimum Land Price](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=2924) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11824%20-%20A%20Minimum%20Land%20Price)|   
 | [11833 - Route Change](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2933) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11833%20-%20Route%20Change)|   
 | [11835 - Formula 1](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=624&page=show_problem&problem=2935) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11835%20-%20Formula%201)|   
+| [11849 - CD](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11849%20-%20CD)|   
 | [11850 - Alaska](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=2950) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11850%20-%20Alaska)|   
 | [11857 - Driving Range](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=673&page=show_problem&problem=2957) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11857%20-%20Driving%20Range)|   
 | [11876 - N + NOD (N)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=2987) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11876%20-%20N%20+%20NOD%20(N))|   

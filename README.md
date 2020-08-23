@@ -11,6 +11,7 @@
 | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   
 | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   
 | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bungee%20Builder)|   
+| [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
@@ -22,6 +23,7 @@
 | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
 | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
 | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   
+| [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Food)|   
 | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
 | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   

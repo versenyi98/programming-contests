@@ -21,6 +21,7 @@
 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Divide%20by%20100...)|   
 | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
+| [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   
 | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
 | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
 | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   

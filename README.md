@@ -14,6 +14,7 @@
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
+| [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
 | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   

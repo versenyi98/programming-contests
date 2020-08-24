@@ -31,6 +31,7 @@
 | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
 | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
+| [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Grandpa%20Bernie)|   
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedily%20Increasing%20Subsequence)|   
 | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedy%20Polygons)|   
 | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greeting%20Card)|   

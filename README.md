@@ -14,6 +14,7 @@
 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
+| [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   
@@ -273,6 +274,7 @@
 | [11244 - Counting Stars](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=2201) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11244%20-%20Counting%20Stars)|   
 | [11264 - Coin Collector](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=657&page=show_problem&problem=2231) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11264%20-%20Coin%20Collector)|   
 | [11280 - Flying to Fredericton](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2255) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11280%20-%20Flying%20to%20Fredericton)|   
+| [11286 - Conformity](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=2261&mosmsg=Submission+received+with+ID+25412460) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11286%20-%20Conformity)|   
 | [11309 - Counting Chaos](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=615&page=show_problem&problem=2284) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11309%20-%20Counting%20Chaos)|   
 | [11321 - Sort! Sort!! and Sort!!!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=2296) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11321%20-%20Sort!%20Sort!!%20and%20Sort!!!)|   
 | [11338 - Minefield](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=679&page=show_problem&problem=2313) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11338%20-%20Minefield)|   

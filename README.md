@@ -51,6 +51,7 @@
 | [Pivot]() | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
+| [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Recount)|   
 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
 | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   

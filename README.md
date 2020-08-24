@@ -31,6 +31,7 @@
 | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
 | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedily%20Increasing%20Subsequence)|   
 | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedy%20Polygons)|   
+| [Greeting Card](https://open.kattis.com/problems/greetingcard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greeting%20Card)|   
 | [Height Ordering](https://open.kattis.com/problems/height) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Height%20Ordering)|   
 | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Image%20Processing)|   
 | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   

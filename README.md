@@ -6,6 +6,7 @@
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Adding%20Words)|   
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
 | [Awkward Party](https://open.kattis.com/problems/awkwardparty) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Awkward%20Party)|   
+| [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   

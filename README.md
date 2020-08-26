@@ -3,6 +3,7 @@
 |:---|:---:|   
 | [2048](https://open.kattis.com/problems/2048) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/2048)|   
 | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Classy%20Problem)|   
+| [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Adding%20Words)|   
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
 | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   

@@ -13,7 +13,6 @@ int main() {
 
 		int n;
 		scanf("%d", &n);
-
 		unordered_set<int> stamps[n];
 		unordered_map<int, int> owners;
 

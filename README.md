@@ -16,6 +16,7 @@
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
 | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
+| [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   

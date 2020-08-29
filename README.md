@@ -19,6 +19,7 @@
 | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
+| [Compound Words](https://open.kattis.com/problems/compoundwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Compound%20Words)|   
 | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   

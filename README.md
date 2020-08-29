@@ -9,6 +9,7 @@
 | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
+| [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   
 | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   
 | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   

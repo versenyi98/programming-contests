@@ -28,6 +28,7 @@
 | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   
 | [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Disastrous%20Downtime)|   
 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Divide%20by%20100...)|   
+| [Doctor Kattis](https://open.kattis.com/problems/doctorkattis) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Doctor%20Kattis)|   
 | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
 | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
 | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   

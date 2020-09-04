@@ -4,6 +4,7 @@
 | [2048](https://open.kattis.com/problems/2048) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/2048)|   
 | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Classy%20Problem)|   
 | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Adding%20Words)|   
+| [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Administrative%20Difficulties)|   
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
 | [Awkward Party](https://open.kattis.com/problems/awkwardparty) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Awkward%20Party)|   
 | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   

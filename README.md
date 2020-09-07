@@ -23,6 +23,7 @@
 | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
 | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Compound%20Words)|   
 | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
+| [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Continuous%20Median)|   
 | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
@@ -265,6 +266,7 @@
 | [10880 - Colin and Ryan](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1821) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10880%20-%20Colin%20and%20Ryan)|   
 | [10887 - Concatenation of Languages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1828) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10887%20-%20Concatenation%20of%20Languages)|   
 | [10905 - Children's Game](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=1846) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10905%20-%20Children's%20Game)|   
+| [10909 - Lucky Number](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1850) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10909%20-%20Lucky%20Number)|   
 | [10910 - Marks Distribution](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1851) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10910%20-%20Marks%20Distribution)|   
 | [10920 - Spiral Tap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=624&page=show_problem&problem=1861) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10920%20-%20Spiral%20Tap)|   
 | [10943 - How do you add?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10943%20-%20How%20do%20you%20add?)|   

@@ -3,6 +3,7 @@
 |:---|:---|:---:|   
 | 2048 | [2048](https://open.kattis.com/problems/2048) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/2048)|   
 | classy | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Classy%20Problem)|   
+| abinitio | [Ab Initio](https://open.kattis.com/problems/abinitio) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ab%20Initio)|   
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Adding%20Words)|   
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Administrative%20Difficulties)|   
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   

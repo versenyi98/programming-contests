@@ -59,6 +59,7 @@
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Kattis's%20Quest)|   
 | keywords | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   
 | knigsoftheforest | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Knigs%20of%20the%20Forest)|   
+| ladice | [Ladice](https://open.kattis.com/problems/ladice) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ladice)|   
 | litespace | [Litespace](https://open.kattis.com/problems/litespace   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Litespace)|   
 | magicalcows | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|   
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   

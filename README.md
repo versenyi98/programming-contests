@@ -68,6 +68,7 @@
 | magicalcows | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|   
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   
 | mastermind | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mastering%20Mastermind)|   
+| millionairemadness | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Millionaire%20Madness)|   
 | minspantree | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Spanning%20Tree)|   
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   

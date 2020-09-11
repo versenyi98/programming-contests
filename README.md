@@ -64,6 +64,7 @@
 | knigsoftheforest | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Knigs%20of%20the%20Forest)|   
 | ladice | [Ladice](https://open.kattis.com/problems/ladice) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ladice)|   
 | litespace | [Litespace](https://open.kattis.com/problems/litespace   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Litespace)|   
+| lostmap | [Lost Map](https://open.kattis.com/problems/lostmap) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Lost%20Map)|   
 | magicalcows | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|   
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   
 | mastermind | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mastering%20Mastermind)|   

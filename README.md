@@ -42,6 +42,7 @@
 | epigdanceoff | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
+| fenwick | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fenwick%20Tree)|   
 | flagquiz | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   
 | freefood | [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Food)|   

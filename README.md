@@ -60,6 +60,7 @@
 | islandhopping | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Island%20Hopping)|   
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
 | jugglingpatterns | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
+| justforsidekicks | [Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Just%20for%20Sidekicks)|   
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Kattis's%20Quest)|   
 | keywords | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   
 | knigsoftheforest | [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Knigs%20of%20the%20Forest)|   

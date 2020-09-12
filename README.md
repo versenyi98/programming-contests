@@ -73,6 +73,7 @@
 | millionairemadness | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Millionaire%20Madness)|   
 | minspantree | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Spanning%20Tree)|   
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
+| moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   

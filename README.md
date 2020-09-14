@@ -36,6 +36,7 @@
 | bubbletea | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
 | delimitersoup | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   
 | downtime | [Disastrous Downtime](https://open.kattis.com/problems/downtime) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Disastrous%20Downtime)|   
+| ballotboxes | [Distributing Ballot Boxes](https://open.kattis.com/problems/ballotboxes) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Distributing%20Ballot%20Boxes)|   
 | divideby100 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Divide%20by%20100...)|   
 | doctorkattis | [Doctor Kattis](https://open.kattis.com/problems/doctorkattis) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Doctor%20Kattis)|   
 | dyslectionary | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
@@ -59,6 +60,7 @@
 | integerlists | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   
 | islandhopping | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Island%20Hopping)|   
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
+| judging | [Judging Troubles](https://open.kattis.com/problems/judging) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Judging%20Troubles)|   
 | jugglingpatterns | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
 | justforsidekicks | [Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Just%20for%20Sidekicks)|   
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Kattis's%20Quest)|   
@@ -403,6 +405,7 @@
 | [12299 - RMQ with Shifts](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3720) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12299%20-%20RMQ%20with%20Shifts)|   
 | [12321 - Gas Stations](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=657&page=show_problem&problem=3743) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12321%20-%20Gas%20Stations)|   
 | [12356 - Army Buddies](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=3778) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12356%20-%20Army%20Buddies)|   
+| [12390 - Distributing Ballot Boxes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=problem_stats&problemid=3812&category=0) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12390%20-%20Distributing%20Ballot%20Boxes)|   
 | [12398 - NumPuzz I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=624&page=show_problem&problem=3829) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12398%20-%20NumPuzz%20I)|   
 | [12405 - Scarecrow](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=657&page=show_problem&problem=3836) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12405%20-%20Scarecrow)|   
 | [12504 - Updating a Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3948) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12504%20-%20Updating%20a%20Dictionary)|   

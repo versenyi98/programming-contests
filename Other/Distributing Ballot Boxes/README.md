@@ -1,1 +1,0 @@
-https://progcont.hu/progcont/100330/?pid=12390

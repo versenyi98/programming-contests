@@ -92,6 +92,7 @@
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sim)|   
+| simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Simple%20Addition)|   
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   

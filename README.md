@@ -82,6 +82,7 @@
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
+| primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Recount)|   
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   

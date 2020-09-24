@@ -83,6 +83,7 @@
 | pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pet)|   
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
+| primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Recount)|   
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
@@ -92,6 +93,7 @@
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sim)|   
+| simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Simple%20Addition)|   
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   
@@ -103,6 +105,7 @@
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   
 | unionfind | [Union-Find](https://open.kattis.com/problems/unionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Union-Find)|   
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
+| wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
 ## UVa Online Judge problems   
 | Link to description | Link to solution |   
@@ -171,6 +174,7 @@
 | [00674 - Coin Change](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=615) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00674%20-%20Coin%20Change)|   
 | [00679 - Dropping Balls](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=620) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00679%20-%20Dropping%20Balls)|   
 | [00700 - Date Bugs](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=626&page=show_problem&problem=641) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00700%20-%20Date%20Bugs)|   
+| [00713 - Adding Reversed Numbers](uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=654) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00713%20-%20Adding%20Reversed%20Numbers)|   
 | [00722 - Lakes](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=663) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00722%20-%20Lakes)|   
 | [00727 - Equation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=668) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00727%20-%20Equation)|   
 | [00748 - Exponentiation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=709&page=show_problem&problem=689) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00748%20-%20Exponentiation)|   
@@ -267,6 +271,7 @@
 | [10474 - Where is the Marble?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=1415) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10474%20-%20Where%20is%20the%20Marble?)|   
 | [10496 - Collecting Beepers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=654&page=show_problem&problem=1437) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10496%20-%20Collecting%20Beepers)|   
 | [10520 - Determine it](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1461) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10520%20-%20Determine%20it)|   
+| [10523 - Very Easy !!!](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1464) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10523%20-%20Very%20Easy%20!!!)|   
 | [10534 - Wavio Sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=1475) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10534%20-%20Wavio%20Sequence)|   
 | [10557 - XYZZY](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1498) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10557%20-%20XYZZY)|   
 | [10567 - Helping Fill Bates](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=1508) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10567%20-%20Helping%20Fill%20Bates)|   
@@ -298,6 +303,7 @@
 | [10905 - Children's Game](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=1846) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10905%20-%20Children's%20Game)|   
 | [10910 - Marks Distribution](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1851) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10910%20-%20Marks%20Distribution)|   
 | [10920 - Spiral Tap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=624&page=show_problem&problem=1861) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10920%20-%20Spiral%20Tap)|   
+| [10925 - Krakovia](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1866) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10925%20-%20Krakovia)|   
 | [10943 - How do you add?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1884) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10943%20-%20How%20do%20you%20add?)|   
 | [10946 - You want what filled?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=1887) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10946%20-%20You%20want%20what%20filled?)|   
 | [10959 - The Party, Part I](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1900) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10959%20-%20The%20Party,%20Part%20I)|   

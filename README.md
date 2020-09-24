@@ -17,6 +17,7 @@
 | basicprogramming2 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | bst | [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   
 | bitbybit | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
+| blackfriday | [Black Friday](https://open.kattis.com/problems/blackfriday) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Black%20Friday)|   
 | bookingaroom | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   
 | bread | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   
 | brickpartition | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   

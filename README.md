@@ -52,6 +52,7 @@
 | funhouse | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|   
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
+| golombrulers | [Golomb Rulers](https://open.kattis.com/problems/golombrulers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Golomb%20Rulers)|   
 | goodmorning | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
 | grandpabernie | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Grandpa%20Bernie)|   
 | greedilyincreasing | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedily%20Increasing%20Subsequence)|   

@@ -93,6 +93,7 @@
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
 | princesspeach | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | schoolspirit | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
+| set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   
 | shatteredcake | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   

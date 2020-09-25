@@ -34,6 +34,7 @@
 | continuousmedian | [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Continuous%20Median)|   
 | conversationlog | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | cookieselection | [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cookie%20Selection)|   
+| cudoviste | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cudoviste)|   
 | deathstar | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | bubbletea | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
 | delimitersoup | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   

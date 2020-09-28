@@ -17,6 +17,7 @@
 | basicprogramming2 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | bst | [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   
 | bitbybit | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
+| blackfriday | [Black Friday](https://open.kattis.com/problems/blackfriday) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Black%20Friday)|   
 | bookingaroom | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   
 | bread | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   
 | brickpartition | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   
@@ -27,12 +28,14 @@
 | cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
 | chopwood | [Chopping Wood](https://open.kattis.com/problems/chopwood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Chopping%20Wood)|   
 | circuitmath | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
+| closestsums | [Closest Sums](https://open.kattis.com/problems/closestsums) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Closest%20Sums)|   
 | competitivearcadebasketball | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
 | compoundwords | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Compound%20Words)|   
 | conformity | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   
 | continuousmedian | [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Continuous%20Median)|   
 | conversationlog | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | cookieselection | [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cookie%20Selection)|   
+| cudoviste | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cudoviste)|   
 | deathstar | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   
 | bubbletea | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|   
 | delimitersoup | [Delimiter Soup](https://open.kattis.com/problems/delimitersoup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delimiter%20Soup)|   
@@ -51,6 +54,7 @@
 | funhouse | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|   
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
+| golombrulers | [Golomb Rulers](https://open.kattis.com/problems/golombrulers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Golomb%20Rulers)|   
 | goodmorning | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
 | grandpabernie | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Grandpa%20Bernie)|   
 | greedilyincreasing | [Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedily%20Increasing%20Subsequence)|   
@@ -78,9 +82,11 @@
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
+| npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/N-Puzzle)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
+| pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pet)|   
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
@@ -89,6 +95,7 @@
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
 | princesspeach | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | schoolspirit | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
+| set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   
 | shatteredcake | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   
@@ -269,6 +276,7 @@
 | [10422 - Knights in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1363) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10422%20-%20Knights%20in%20FEN)|   
 | [10449 - Traffic](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1390&) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10449%20-%20Traffic)|   
 | [10474 - Where is the Marble?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=1415) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10474%20-%20Where%20is%20the%20Marble?)|   
+| [10487 - Closest Sums](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1428) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10487%20-%20Closest%20Sums)|   
 | [10496 - Collecting Beepers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=654&page=show_problem&problem=1437) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10496%20-%20Collecting%20Beepers)|   
 | [10520 - Determine it](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=1461) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10520%20-%20Determine%20it)|   
 | [10523 - Very Easy !!!](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1464) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10523%20-%20Very%20Easy%20!!!)|   

@@ -25,6 +25,7 @@
 | busnumbers | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | candydivision | [Candy Division](https://open.kattis.com/problems/candydivision) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Candy%20Division)|   
+| cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
 | chopwood | [Chopping Wood](https://open.kattis.com/problems/chopwood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Chopping%20Wood)|   
 | circuitmath | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | closestsums | [Closest Sums](https://open.kattis.com/problems/closestsums) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Closest%20Sums)|   
@@ -397,6 +398,7 @@
 | [11857 - Driving Range](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=673&page=show_problem&problem=2957) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11857%20-%20Driving%20Range)|   
 | [11860 - Document Analyzer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2960) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11860%20-%20Document%20Analyzer)|   
 | [11876 - N + NOD (N)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=2987) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11876%20-%20N%20+%20NOD%20(N))|   
+| [11879 - Multiple of 17](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3001) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11879%20-%20Multiple%20of%2017)|   
 | [11881 - Internal Rate of Return](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=662&page=show_problem&problem=3003   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11881%20-%20Internal%20Rate%20of%20Return)|   
 | [1193 - Radar Installation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3634) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/1193%20-%20Radar%20Installation)|   
 | [11933 - Splitting Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=229&page=show_problem&problem=3084) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11933%20-%20Splitting%20Numbers)|   

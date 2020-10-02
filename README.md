@@ -111,6 +111,7 @@
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   
 | unionfind | [Union-Find](https://open.kattis.com/problems/unionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Union-Find)|   
+| veci | [Veci](https://open.kattis.com/problems/veci) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Veci)|   
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
@@ -234,6 +235,7 @@
 | [01329 - Corporative Network](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4075) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01329%20-%20Corporative%20Network)|   
 | [01368 - DNA Consensus String](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4114) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01368%20-%20DNA%20Consensus%20String)|   
 | [01513 - Movie collection](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4259) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01513%20-%20Movie%20collection)|   
+| [01588 - Kickdown](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4463) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01588%20-%20Kickdown)|   
 | [01610 - Party Games](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=825&page=show_problem&problem=4485) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01610%20-%20Party%20Games)|   
 | [02158 - Factorial](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=159) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/02158%20-%20Factorial)|   
 | [03803 - Mahabharat -- A Story in disguise](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1804) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/03803%20-%20Mahabharat%20--%20A%20Story%20in%20disguise)|   

@@ -24,6 +24,7 @@
 | bungeebuilder | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bungee%20Builder)|   
 | busnumbers | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
+| calculatingdartscores | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Calculating%20Dart%20Scores)|   
 | candydivision | [Candy Division](https://open.kattis.com/problems/candydivision) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Candy%20Division)|   
 | cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
 | chopwood | [Chopping Wood](https://open.kattis.com/problems/chopwood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Chopping%20Wood)|   

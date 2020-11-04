@@ -120,6 +120,7 @@
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
+|  | [Zagrade]() | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|   
 ## UVa Online Judge problems   
 | Link to description | Link to solution |   
 |:---|:---:|   

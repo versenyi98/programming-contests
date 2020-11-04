@@ -108,6 +108,7 @@
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   
+| squaredeal | [Square Deal](https://open.kattis.com/problems/squaredeal) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Square%20Deal)|   
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Srednji)|   
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | consecutivesums | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
@@ -120,7 +121,7 @@
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
-|  | [Zagrade]() | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|   
+| zagrade | [Zagrade](https://open.kattis.com/problems/zagrade) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|   
 ## UVa Online Judge problems   
 | Link to description | Link to solution |   
 |:---|:---:|   

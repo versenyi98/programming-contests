@@ -72,6 +72,7 @@
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
 | judging | [Judging Troubles](https://open.kattis.com/problems/judging) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Judging%20Troubles)|   
 | jugglingpatterns | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
+| communication | [Jumbled Communication](https://open.kattis.com/problems/communication) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Jumbled%20Communication)|   
 | justforsidekicks | [Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Just%20for%20Sidekicks)|   
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Kattis's%20Quest)|   
 | keywords | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   

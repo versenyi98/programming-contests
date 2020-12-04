@@ -52,11 +52,13 @@
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
 | fenwick | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fenwick%20Tree)|   
 | flagquiz | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
+| flexible | [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flexible%20Spaces)|   
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   
 | freefood | [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Food)|   
 | funhouse | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|   
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
+| geppetto | [Geppetto](https://open.kattis.com/problems/geppetto) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Geppetto)|   
 | golombrulers | [Golomb Rulers](https://open.kattis.com/problems/golombrulers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Golomb%20Rulers)|   
 | goodmorning | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
 | grandpabernie | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Grandpa%20Bernie)|   
@@ -67,9 +69,11 @@
 | imageprocessing | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Image%20Processing)|   
 | integerlists | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   
 | islandhopping | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Island%20Hopping)|   
+| islands | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Islands%20in%20the%20Data%20Stream)|   
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|   
 | judging | [Judging Troubles](https://open.kattis.com/problems/judging) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Judging%20Troubles)|   
 | jugglingpatterns | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|   
+| communication | [Jumbled Communication](https://open.kattis.com/problems/communication) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Jumbled%20Communication)|   
 | justforsidekicks | [Just for Sidekicks](https://open.kattis.com/problems/justforsidekicks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Just%20for%20Sidekicks)|   
 | kattissquest | [Kattis's Quest](https://open.kattis.com/problems/kattissquest) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Kattis's%20Quest)|   
 | keywords | [Keywords](https://open.kattis.com/problems/keywords   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Keywords)|   
@@ -109,6 +113,7 @@
 | snappereasy | [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Easy))|   
 | snapperhard | [Snapper Chain (Hard)](https://open.kattis.com/problems/snapperhard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Snapper%20Chain%20(Hard))|   
 | sortofsorting | [Sort of Sorting](https://open.kattis.com/problems/sortofsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sort%20of%20Sorting)|   
+| squaredeal | [Square Deal](https://open.kattis.com/problems/squaredeal) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Square%20Deal)|   
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Srednji)|   
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | consecutivesums | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
@@ -121,6 +126,7 @@
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
+| zagrade | [Zagrade](https://open.kattis.com/problems/zagrade) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|   
 ## UVa Online Judge problems   
 | Link to description | Link to solution |   
 |:---|:---:|   
@@ -185,6 +191,7 @@
 | [00594 - One Little, Two Little, Three Little Endians](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=626&page=show_problem&problem=535) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00594%20-%20One%20Little,%20Two%20Little,%20Three%20Little%20Endians)|   
 | [00599 - The Forrest for the Trees](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=540) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00599%20-%20The%20Forrest%20for%20the%20Trees)|   
 | [00612 - DNA Sorting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=553) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00612%20-%20DNA%20Sorting)|   
+| [00639 - Don't Get Rooked](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=580) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00639%20-%20Don't%20Get%20Rooked)|   
 | [00657 - The die is cast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=598) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00657%20-%20The%20die%20is%20cast)|   
 | [00665 - False Coin](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=623&page=show_problem&problem=606) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00665%20-%20False%20Coin)|   
 | [00673 - Parentheses Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=8&page=show_problem&problem=614) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00673%20-%20Parentheses%20Balance)|   
@@ -393,6 +400,7 @@
 | [11624 - Fire!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2671) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11624%20-%20Fire!)|   
 | [11629 - Ballot evaluation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2676) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11629%20-%20Ballot%20evaluation)|   
 | [11658 - Best Coalitions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=2705) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11658%20-%20Best%20Coalitions)|   
+| [11659 - Informants](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2706) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11659%20-%20Informants)|   
 | [11686 - Pick Up Sticks](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2733) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11686%20-%20Pick%20Up%20Sticks)|   
 | [11703 - sqrt log sin](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=655&page=show_problem&problem=2750) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11703%20-%20sqrt%20log%20sin)|   
 | [11710 - Expensive Subway](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2757) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11710%20-%20Expensive%20Subway)|   
@@ -450,6 +458,7 @@
 | [12650 - Dangerous Dive](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4379) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12650%20-%20Dangerous%20Dive)|   
 | [12662 - Good Teacher](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4400) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12662%20-%20Good%20Teacher)|   
 | [12667 - Last Blood](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=602&page=show_problem&problem=4405) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12667%20-%20Last%20Blood)|   
+| [12694 - Meeting Room Arrangement](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=602&page=show_problem&problem=4432) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12694%20-%20Meeting%20Room%20Arrangement)|   
 | [12709 - Falling Ants](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4447) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12709%20-%20Falling%20Ants)|   
 | [12720 - Algorithm of Phil](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=823&page=show_problem&problem=4572   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12720%20-%20Algorithm%20of%20Phil)|   
 | [12844 - Outwitting the Weighing Machine](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4709) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/12844%20-%20Outwitting%20the%20Weighing%20Machine)|   

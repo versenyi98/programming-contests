@@ -1,1 +1,1 @@
-{https://open.kattis.com/problems/carefulascent:-}
+https://open.kattis.com/problems/carefulascent

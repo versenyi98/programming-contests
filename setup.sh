@@ -1,7 +1,7 @@
 #!bin/bash
 
 # Add the following line to ~/.bashrc:
-# source /path/to/compile.sh
+# source /path/to/setup.sh
 
 # After this, the terminal should recognize the following commands
 

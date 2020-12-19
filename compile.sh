@@ -6,5 +6,5 @@
 # After this, the terminal should recognize the compile command
 
 function compile() {
-    g++ $PWD/main.cpp -o $PWD/main
+    g++ "$PWD/main.cpp" -o "$PWD/main"
 }

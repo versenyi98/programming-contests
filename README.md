@@ -94,6 +94,7 @@
 | npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/N-Puzzle)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   
+| outofsorts | [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Out%20of%20Sorts)|   
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
 | pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pet)|   
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   

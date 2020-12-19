@@ -2,18 +2,18 @@
 | ID | Link to description | Link to solution |   
 |:---|:---|:---:|   
 | 2048 | [2048](https://open.kattis.com/problems/2048) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/2048)|   
-| classy | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Classy%20Problem)|   
-| cats | [A Feast For Cats](https://open.kattis.com/problems/cats) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Feast%20For%20Cats)|   
 | abinitio | [Ab Initio](https://open.kattis.com/problems/abinitio) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ab%20Initio)|   
+| classy | [A Classy Problem](https://open.kattis.com/problems/classy) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Classy%20Problem)|   
 | addingwords | [Adding Words](https://open.kattis.com/problems/addingwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Adding%20Words)|   
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Administrative%20Difficulties)|   
+| cats | [A Feast For Cats](https://open.kattis.com/problems/cats) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Feast%20For%20Cats)|   
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|   
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
 | control | [Association for Control Over Minds](https://open.kattis.com/problems/control) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Association%20for%20Control%20Over%20Minds)|   
 | awkwardparty | [Awkward Party](https://open.kattis.com/problems/awkwardparty) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Awkward%20Party)|   
-| basicinterpreter | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | babynames | [Baby Names](https://open.kattis.com/problems/babynames) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baby%20Names)|   
 | baloni | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
+| basicinterpreter | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | basicprogramming2 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | bst | [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   
 | bitbybit | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
@@ -23,10 +23,10 @@
 | brickpartition | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   
 | bungeebuilder | [Bungee Builder](https://open.kattis.com/problems/bungeebuilder) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bungee%20Builder)|   
 | busnumbers | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
-| cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | calculatingdartscores | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Calculating%20Dart%20Scores)|   
 | candydivision | [Candy Division](https://open.kattis.com/problems/candydivision) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Candy%20Division)|   
 | cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
+| cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | chopwood | [Chopping Wood](https://open.kattis.com/problems/chopwood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Chopping%20Wood)|   
 | circuitmath | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | closestsums | [Closest Sums](https://open.kattis.com/problems/closestsums) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Closest%20Sums)|   
@@ -92,8 +92,8 @@
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
-| npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/N-Puzzle)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
+| npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/N-Puzzle)|   
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   
 | outofsorts | [Out of Sorts](https://open.kattis.com/problems/outofsorts) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Out%20of%20Sorts)|   
 | pairingsocks | [Pairing Socks](https://open.kattis.com/problems/pairingsocks) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pairing%20Socks)|   
@@ -427,9 +427,9 @@
 | [11876 - N + NOD (N)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=661&page=show_problem&problem=2987) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11876%20-%20N%20+%20NOD%20(N))|   
 | [11879 - Multiple of 17](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3001) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11879%20-%20Multiple%20of%2017)|   
 | [11881 - Internal Rate of Return](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=662&page=show_problem&problem=3003   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11881%20-%20Internal%20Rate%20of%20Return)|   
-| [1193 - Radar Installation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3634) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/1193%20-%20Radar%20Installation)|   
 | [11933 - Splitting Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=229&page=show_problem&problem=3084) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11933%20-%20Splitting%20Numbers)|   
 | [11935 - Through the Desert](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3086) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11935%20-%20Through%20the%20Desert)|   
+| [1193 - Radar Installation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3634) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/1193%20-%20Radar%20Installation)|   
 | [11951 - Area](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=650&page=show_problem&problem=3102) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11951%20-%20Area)|   
 | [11953 - Battleships](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=3104) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11953%20-%20Battleships)|   
 | [11987 - Almost Union-Find](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3138) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11987%20-%20Almost%20Union-Find)|   

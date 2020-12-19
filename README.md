@@ -121,6 +121,7 @@
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | consecutivesums | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
 | supercomputer | [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Supercomputer)|   
+| synchronizinglists | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Synchronizing%20Lists)|   
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Tautology)|   
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   

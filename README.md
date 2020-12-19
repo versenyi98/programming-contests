@@ -104,6 +104,7 @@
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Recount)|   
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
+| roompainting | [Room Painting](https://open.kattis.com/problems/roompainting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Room%20Painting)|   
 | princesspeach | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | schoolspirit | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
 | set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   

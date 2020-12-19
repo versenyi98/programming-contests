@@ -26,6 +26,7 @@
 | calculatingdartscores | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Calculating%20Dart%20Scores)|   
 | candydivision | [Candy Division](https://open.kattis.com/problems/candydivision) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Candy%20Division)|   
 | cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
+| carefulascent:-} | [Careful Ascent]({https://open.kattis.com/problems/carefulascent:-}) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Careful%20Ascent)|   
 | cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   
 | chopwood | [Chopping Wood](https://open.kattis.com/problems/chopwood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Chopping%20Wood)|   
 | circuitmath | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   

@@ -47,7 +47,7 @@ function commit_changes() {
     LAST_DIR=$PWD
 
     cd ../../
-    generate_readme > teszt.md
+    generate_readme > README.md
     cd "$LAST_DIR"
 
     git add .

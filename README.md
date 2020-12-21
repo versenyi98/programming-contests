@@ -122,6 +122,7 @@
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
 | consecutivesums | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
 | supercomputer | [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Supercomputer)|   
+| suspensionbridges | [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Suspension%20Bridges)|   
 | synchronizinglists | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Synchronizing%20Lists)|   
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Tautology)|   
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   

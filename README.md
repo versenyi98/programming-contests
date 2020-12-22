@@ -57,6 +57,7 @@
 | flexible | [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flexible%20Spaces)|   
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   
 | freefood | [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Food)|   
+| freeweights | [Free Weights](https://open.kattis.com/problems/freeweights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Weights)|   
 | funhouse | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|   
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|   
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   

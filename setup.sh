@@ -58,7 +58,7 @@ function init_problem() {
     FOLDER_NAME=$1
     PROBLEM_LINK=$2
 
-    if [ -z "$FOLDER_NAME"]
+    if [ -z "$FOLDER_NAME" ]
     then
         echo "Couldn't initialize folder for problem. FOLDER_NAME is not set!"
     else

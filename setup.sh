@@ -58,14 +58,18 @@ function init_problem() {
     FOLDER_NAME=$1
     PROBLEM_LINK=$2
 
-    mkdir "$PWD/$FOLDER_NAME"
-    cd "$FOLDER_NAME"
+    if [ -z "$FOLDER_NAME"]
+    then
+        echo "Couldn't initialize folder for problem. FOLDER_NAME is not set!"
+    else
+        mkdir "$PWD/$FOLDER_NAME"
+        cd "$FOLDER_NAME"
 
-    touch in main.cpp README.md
+        touch in main.cpp README.md
 
-    echo $PROBLEM_LINK > README.md
+        echo $PROBLEM_LINK > README.md
 
-    printf "#include <bits/stdc++.h>
+        printf "#include <bits/stdc++.h>
 #define endl \"\\\n\"
 
 using namespace std;
@@ -78,4 +82,5 @@ int main() {
 
     return 0;
 }" > main.cpp
+    fi
 }

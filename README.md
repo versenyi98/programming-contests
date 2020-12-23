@@ -93,6 +93,7 @@
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   
 | mastermind | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mastering%20Mastermind)|   
 | millionairemadness | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Millionaire%20Madness)|   
+| minimumscalar | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Scalar%20Product)|   
 | minspantree | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Spanning%20Tree)|   
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   

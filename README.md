@@ -71,6 +71,7 @@
 | greedypolygons | [Greedy Polygons](https://open.kattis.com/problems/greedypolygons   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greedy%20Polygons)|   
 | greetingcard | [Greeting Card](https://open.kattis.com/problems/greetingcard) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Greeting%20Card)|   
 | height | [Height Ordering](https://open.kattis.com/problems/height) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Height%20Ordering)|   
+| icpcteamselection | [ICPC Team Selection](https://open.kattis.com/problems/icpcteamselection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/ICPC%20Team%20Selection)|   
 | imageprocessing | [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Image%20Processing)|   
 | integerlists | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|   
 | islandhopping | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Island%20Hopping)|   

@@ -116,6 +116,7 @@
 | set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   
 | shatteredcake | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
+| shopaholic | [Shopaholic](https://open.kattis.com/problems/shopaholic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shopaholic)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   
 | sim | [Sim](https://open.kattis.com/problems/sim) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sim)|   
 | simpleaddition | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Simple%20Addition)|   

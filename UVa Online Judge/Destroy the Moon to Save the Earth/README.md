@@ -1,1 +1,0 @@
-https://onlinejudge.org/external/131/13142.pdf

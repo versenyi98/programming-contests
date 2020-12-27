@@ -16,6 +16,7 @@
 | basicinterpreter | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | basicprogramming2 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | bst | [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   
+| birds | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Birds%20on%20a%20Wire)|   
 | bitbybit | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
 | blackfriday | [Black Friday](https://open.kattis.com/problems/blackfriday) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Black%20Friday)|   
 | bookingaroom | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   

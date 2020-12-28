@@ -10,6 +10,7 @@
 | airconditioned | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Air%20Conditioned%20Minions)|   
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|   
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
+| workstations | [Assigning Workstations](https://open.kattis.com/problems/workstations) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Assigning%20Workstations)|   
 | control | [Association for Control Over Minds](https://open.kattis.com/problems/control) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Association%20for%20Control%20Over%20Minds)|   
 | awkwardparty | [Awkward Party](https://open.kattis.com/problems/awkwardparty) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Awkward%20Party)|   
 | babynames | [Baby Names](https://open.kattis.com/problems/babynames) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baby%20Names)|   

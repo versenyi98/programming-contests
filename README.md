@@ -27,6 +27,7 @@
 | busnumbers | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bus%20Numbers)|   
 | calculatingdartscores | [Calculating Dart Scores](https://open.kattis.com/problems/calculatingdartscores) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Calculating%20Dart%20Scores)|   
 | candydivision | [Candy Division](https://open.kattis.com/problems/candydivision) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Candy%20Division)|   
+| canvas | [Canvas Painting](https://open.kattis.com/problems/canvas) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Canvas%20Painting)|   
 | cardtrick2 | [Card Trick](https://open.kattis.com/problems/cardtrick2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Card%20Trick)|   
 | carefulascent | [Careful Ascent](https://open.kattis.com/problems/carefulascent) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Careful%20Ascent)|   
 | cd | [CD](https://open.kattis.com/problems/cd) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/CD)|   

@@ -21,6 +21,7 @@
 | birds | [Birds on a Wire](https://open.kattis.com/problems/birds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Birds%20on%20a%20Wire)|   
 | bitbybit | [Bit by Bit](https://open.kattis.com/problems/bitbybit) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bit%20by%20Bit)|   
 | blackfriday | [Black Friday](https://open.kattis.com/problems/blackfriday) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Black%20Friday)|   
+| vegetables | [Boiling Vegetables](https://open.kattis.com/problems/vegetables) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Boiling%20Vegetables)|   
 | bookingaroom | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Booking%20a%20Room)|   
 | bread | [Bread Sorting](https://open.kattis.com/problems/bread   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bread%20Sorting)|   
 | brickpartition | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|   

@@ -16,6 +16,7 @@
 | awkwardparty | [Awkward Party](https://open.kattis.com/problems/awkwardparty) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Awkward%20Party)|   
 | babynames | [Baby Names](https://open.kattis.com/problems/babynames) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baby%20Names)|   
 | baloni | [Baloni](https://open.kattis.com/problems/baloni) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Baloni)|   
+| bank | [Bank Queue](https://open.kattis.com/problems/bank) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bank%20Queue)|   
 | basicinterpreter | [BASIC Interpreter](https://open.kattis.com/problems/basicinterpreter) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/BASIC%20Interpreter)|   
 | basicprogramming2 | [Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Basic%20Programming%202)|   
 | bst | [Binary search tree](https://open.kattis.com/problems/bst) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Binary%20search%20tree)|   

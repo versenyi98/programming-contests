@@ -100,6 +100,7 @@
 | lostmap | [Lost Map](https://open.kattis.com/problems/lostmap) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Lost%20Map)|   
 | magicalcows | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|   
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|   
+| marblestree | [Marbles On A Tree](https://open.kattis.com/problems/marblestree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Marbles%20On%20A%20Tree)|   
 | mastermind | [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mastering%20Mastermind)|   
 | millionairemadness | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Millionaire%20Madness)|   
 | minimumscalar | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Scalar%20Product)|   

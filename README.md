@@ -55,6 +55,7 @@
 | divideby100 | [Divide by 100...](https://open.kattis.com/problems/divideby100) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Divide%20by%20100...)|   
 | doctorkattis | [Doctor Kattis](https://open.kattis.com/problems/doctorkattis) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Doctor%20Kattis)|   
 | dreamer | [Dreamer](https://open.kattis.com/problems/dreamer) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dreamer)|   
+| dvds | [DVDs](https://open.kattis.com/problems/dvds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/DVDs)|   
 | dyslectionary | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
 | epigdanceoff | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   

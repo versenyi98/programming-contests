@@ -148,6 +148,7 @@
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   
 | unionfind | [Union-Find](https://open.kattis.com/problems/unionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Union-Find)|   
 | veci | [Veci](https://open.kattis.com/problems/veci) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Veci)|   
+| virus | [Virus Replication](https://open.kattis.com/problems/virus) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Virus%20Replication)|   
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   

@@ -125,6 +125,7 @@
 | roompainting | [Room Painting](https://open.kattis.com/problems/roompainting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Room%20Painting)|   
 | princesspeach | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | schoolspirit | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
+| sellingspatulas | [Selling Spatulas](https://open.kattis.com/problems/sellingspatulas) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Selling%20Spatulas)|   
 | set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   
 | shatteredcake | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   

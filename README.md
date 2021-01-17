@@ -109,6 +109,7 @@
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
+| nesteddolls | [Nested Dolls](https://open.kattis.com/problems/nesteddolls) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nested%20Dolls)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   
 | npuzzle | [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/N-Puzzle)|   
 | numbertree | [Numbers On a Tree](https://open.kattis.com/problems/numbertree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Numbers%20On%20a%20Tree)|   
@@ -148,7 +149,7 @@
 | synchronizinglists | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Synchronizing%20Lists)|   
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Tautology)|   
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
-| trainsorting | [Trainsorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Trainsorting)|   
+| trainsorting | [Train Sorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Train%20Sorting)|   
 | monk | [Traveling Monk](https://open.kattis.com/problems/monk) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Traveling%20Monk)|   
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   
 | unionfind | [Union-Find](https://open.kattis.com/problems/unionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Union-Find)|   

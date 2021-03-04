@@ -46,6 +46,7 @@
 | conversationlog | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | cookieselection | [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cookie%20Selection)|   
 | cudoviste | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cudoviste)|   
+| cursethedarkness | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Curse%20the%20Darkness)|   
 | dancerecital | [Dance Recital](https://open.kattis.com/problems/dancerecital) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dance%20Recital)|   
 | stockbroker | [Daydreaming Stockbroker](https://open.kattis.com/problems/stockbroker) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Daydreaming%20Stockbroker)|   
 | deathstar | [Deathstar](https://open.kattis.com/problems/deathstar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Deathstar)|   

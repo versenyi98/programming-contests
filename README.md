@@ -8,6 +8,7 @@
 | administrativeproblems | [Administrative Difficulties](https://open.kattis.com/problems/administrativeproblems) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Administrative%20Difficulties)|   
 | cats | [A Feast For Cats](https://open.kattis.com/problems/cats) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/A%20Feast%20For%20Cats)|   
 | airconditioned | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Air%20Conditioned%20Minions)|   
+| aliennumbers | [Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alien%20Numbers)|   
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|   
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|   
 | ants | [Ants](https://open.kattis.com/problems/ants) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ants)|   

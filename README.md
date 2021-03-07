@@ -120,6 +120,7 @@
 | pet | [Pet](https://open.kattis.com/problems/pet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pet)|   
 | pivot | [Pivot](https://open.kattis.com/problems/pivot) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Pivot)|   
 | planina | [Planina](https://open.kattis.com/problems/planina) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Planina)|   
+| platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Platforme)|   
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Postal%20Delivery)|   
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
 | prozor | [Prozor](https://open.kattis.com/problems/prozor) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Prozor)|   
@@ -439,6 +440,7 @@
 | [11520 - Fill the Square](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2515) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11520%20-%20Fill%20the%20Square)|   
 | [11550 - Demanding Dilemma](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2545) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11550%20-%20Demanding%20Dilemma)|   
 | [11561 - Getting Gold](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=2597) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11561%20-%20Getting%20Gold)|   
+| [11566 - Let's Yum Cha!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2613) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11566%20-%20Let's%20Yum%20Cha!)|   
 | [11577 - Letter Frequency](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2624) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11577%20-%20Letter%20Frequency)|   
 | [11581 - Grid Successors](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=624&page=show_problem&problem=2628) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11581%20-%20Grid%20Successors)|   
 | [11583 - Alien DNA](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2630) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11583%20-%20Alien%20DNA)|   

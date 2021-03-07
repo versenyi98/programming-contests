@@ -108,6 +108,7 @@
 | millionairemadness | [Millionaire Madness](https://open.kattis.com/problems/millionairemadness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Millionaire%20Madness)|   
 | minimumscalar | [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Scalar%20Product)|   
 | minspantree | [Minimum Spanning Tree](https://open.kattis.com/problems/minspantree) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Minimum%20Spanning%20Tree)|   
+| mixedfractions | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mixed%20Fractions)|   
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   

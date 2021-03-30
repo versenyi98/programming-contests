@@ -69,6 +69,7 @@
 | flagquiz | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
 | flexible | [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flexible%20Spaces)|   
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   
+| freckles | [Freckles](https://open.kattis.com/problems/freckles) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Freckles)|   
 | freefood | [Free Food](https://open.kattis.com/problems/freefood) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Food)|   
 | freeweights | [Free Weights](https://open.kattis.com/problems/freeweights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Weights)|   
 | froshweek2 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Frosh%20Week)|   

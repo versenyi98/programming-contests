@@ -40,6 +40,7 @@
 | circuitmath | [Circuit Math](https://open.kattis.com/problems/circuitmath) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Circuit%20Math)|   
 | classrooms | [Classrooms](https://open.kattis.com/problems/classrooms) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Classrooms)|   
 | closestsums | [Closest Sums](https://open.kattis.com/problems/closestsums) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Closest%20Sums)|   
+| communicationssatellite | [Communications Satellite](https://open.kattis.com/problems/communicationssatellite) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Communications%20Satellite)|   
 | competitivearcadebasketball | [Competitive Arcade Basketball](https://open.kattis.com/problems/competitivearcadebasketball) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Competitive%20Arcade%20Basketball)|   
 | compoundwords | [Compound Words](https://open.kattis.com/problems/compoundwords) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Compound%20Words)|   
 | conformity | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|   

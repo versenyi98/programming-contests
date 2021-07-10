@@ -79,6 +79,7 @@
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|   
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|   
 | geppetto | [Geppetto](https://open.kattis.com/problems/geppetto) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Geppetto)|   
+| gold | [Getting Gold](https://open.kattis.com/problems/gold) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Getting%20Gold)|   
 | golombrulers | [Golomb Rulers](https://open.kattis.com/problems/golombrulers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Golomb%20Rulers)|   
 | goodmorning | [Good Morning](https://open.kattis.com/problems/goodmorning   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Good%20Morning)|   
 | grandpabernie | [Grandpa Bernie](https://open.kattis.com/problems/grandpabernie) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Grandpa%20Bernie)|   

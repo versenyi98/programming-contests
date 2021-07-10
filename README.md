@@ -117,6 +117,7 @@
 | mixedfractions | [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mixed%20Fractions)|   
 | mjehuric | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mjehuric)|   
 | moviecollection | [Movie Collection](https://open.kattis.com/problems/moviecollection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Movie%20Collection)|   
+| muddyhike | [Muddy Hike](https://open.kattis.com/problems/muddyhike) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Muddy%20Hike)|   
 | musicyourway | [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Music%20Your%20Way)|   
 | nesteddolls | [Nested Dolls](https://open.kattis.com/problems/nesteddolls) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nested%20Dolls)|   
 | nineknights | [Nine Knights](https://open.kattis.com/problems/nineknights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Nine%20Knights)|   

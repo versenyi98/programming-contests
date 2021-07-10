@@ -47,6 +47,7 @@
 | continuousmedian | [Continuous Median](https://open.kattis.com/problems/continuousmedian) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Continuous%20Median)|   
 | conversationlog | [Conversation Log](https://open.kattis.com/problems/conversationlog) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conversation%20Log)|   
 | cookieselection | [Cookie Selection](https://open.kattis.com/problems/cookieselection) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cookie%20Selection)|   
+| countingstars | [Counting Stars](https://open.kattis.com/problems/countingstars) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Counting%20Stars)|   
 | cudoviste | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Cudoviste)|   
 | cursethedarkness | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Curse%20the%20Darkness)|   
 | dancerecital | [Dance Recital](https://open.kattis.com/problems/dancerecital) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dance%20Recital)|   
@@ -139,6 +140,7 @@
 | sellingspatulas | [Selling Spatulas](https://open.kattis.com/problems/sellingspatulas) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Selling%20Spatulas)|   
 | set | [Set!](https://open.kattis.com/problems/set) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Set!)|   
 | shatteredcake | [Shattered Cake](https://open.kattis.com/problems/shatteredcake   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shattered%20Cake)|   
+| amoebas | [Sheba's Amoebas](https://open.kattis.com/problems/amoebas) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sheba's%20Amoebas)|   
 | shiritori | [Shiritori](https://open.kattis.com/problems/shiritori) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shiritori)|   
 | shopaholic | [Shopaholic](https://open.kattis.com/problems/shopaholic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Shopaholic)|   
 | sidewayssorting | [Sideways Sorting](https://open.kattis.com/problems/sidewayssorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sideways%20Sorting)|   

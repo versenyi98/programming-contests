@@ -169,6 +169,7 @@
 | veci | [Veci](https://open.kattis.com/problems/veci) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Veci)|   
 | virus | [Virus Replication](https://open.kattis.com/problems/virus) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Virus%20Replication)|   
 | wheels | [Wheels](https://open.kattis.com/problems/wheels   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wheels)|   
+| wheresmyinternet | [Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Where's%20My%20Internet??)|   
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|   
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|   
 | zagrade | [Zagrade](https://open.kattis.com/problems/zagrade) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|   

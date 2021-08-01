@@ -133,6 +133,7 @@
 | platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Platforme)|   
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Postal%20Delivery)|   
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
+| primesieve | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Prime%20Sieve)|   
 | prozor | [Prozor](https://open.kattis.com/problems/prozor) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Prozor)|   
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | commercials | [Radio Commercials](https://open.kattis.com/problems/commercials) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Radio%20Commercials)|   

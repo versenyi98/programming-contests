@@ -64,6 +64,7 @@
 | drivingrange | [Driving Range](https://open.kattis.com/problems/drivingrange) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Driving%20Range)|   
 | dvds | [DVDs](https://open.kattis.com/problems/dvds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/DVDs)|   
 | dyslectionary | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
+| enlarginghashtables | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Enlarging%20Hash%20Tables)|   
 | epigdanceoff | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   

@@ -64,6 +64,7 @@
 | drivingrange | [Driving Range](https://open.kattis.com/problems/drivingrange) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Driving%20Range)|   
 | dvds | [DVDs](https://open.kattis.com/problems/dvds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/DVDs)|   
 | dyslectionary | [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Dyslectionary)|   
+| enlarginghashtables | [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Enlarging%20Hash%20Tables)|   
 | epigdanceoff | [EpigDanceOff](https://open.kattis.com/problems/epigdanceoff) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/EpigDanceOff)|   
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|   
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
@@ -132,6 +133,7 @@
 | platforme | [Platforme](https://open.kattis.com/problems/platforme) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Platforme)|   
 | delivery | [Postal Delivery](https://open.kattis.com/problems/delivery) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Postal%20Delivery)|   
 | primaryarithmetic | [Primary Arithmetic](https://open.kattis.com/problems/primaryarithmetic) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Primary%20Arithmetic)|   
+| primesieve | [Prime Sieve](https://open.kattis.com/problems/primesieve) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Prime%20Sieve)|   
 | prozor | [Prozor](https://open.kattis.com/problems/prozor) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Prozor)|   
 | quickbrownfox | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Quick%20Brown%20Fox)|   
 | commercials | [Radio Commercials](https://open.kattis.com/problems/commercials) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Radio%20Commercials)|   

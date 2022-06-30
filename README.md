@@ -166,6 +166,7 @@
 | synchronizinglists | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Synchronizing%20Lists)|   
 | tautology | [Tautology](https://open.kattis.com/problems/tautology) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Tautology)|   
 | teque | [Teque](https://open.kattis.com/problems/teque) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Teque)|   
+| terraces | [Terraces](https://open.kattis.com/problems/terraces) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Terraces)|   
 | trainsorting | [Train Sorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Train%20Sorting)|   
 | monk | [Traveling Monk](https://open.kattis.com/problems/monk) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Traveling%20Monk)|   
 | traveltheskies | [Travel the Skies](https://open.kattis.com/problems/traveltheskies) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Travel%20the%20Skies)|   

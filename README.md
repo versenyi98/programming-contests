@@ -142,6 +142,7 @@
 | recount | [Recount](https://open.kattis.com/problems/recount) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Recount)|   
 | rings2 | [Rings](https://open.kattis.com/problems/rings2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Rings)|   
 | roompainting | [Room Painting](https://open.kattis.com/problems/roompainting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Room%20Painting)|   
+| runningmom | [Running MoM](https://open.kattis.com/problems/runningmom) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Running%20MoM)|   
 | princesspeach | [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Saving%20Princess%20Peach)|   
 | schoolspirit | [School Spirit](https://open.kattis.com/problems/schoolspirit   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/School%20Spirit)|   
 | sellingspatulas | [Selling Spatulas](https://open.kattis.com/problems/sellingspatulas) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Selling%20Spatulas)|   

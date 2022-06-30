@@ -159,6 +159,7 @@
 | squarepegs | [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Square%20Peg%20in%20a%20Round%20Hole)|   
 | srednji | [Srednji](https://open.kattis.com/problems/srednji) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Srednji)|   
 | stockprices | [Stock Prices](https://open.kattis.com/problems/stockprices) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stock%20Prices)|   
+| stopwatch | [Stopwatch](https://open.kattis.com/problems/stopwatch) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Stopwatch)|   
 | consecutivesums | [Sums](https://open.kattis.com/problems/consecutivesums   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Sums)|   
 | supercomputer | [Supercomputer](https://open.kattis.com/problems/supercomputer) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Supercomputer)|   
 | suspensionbridges | [Suspension Bridges](https://open.kattis.com/problems/suspensionbridges) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Suspension%20Bridges)|   

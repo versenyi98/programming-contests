@@ -71,6 +71,7 @@
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|   
 | fenwick | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fenwick%20Tree)|   
 | firefly | [Firefly](https://open.kattis.com/problems/firefly) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Firefly)|   
+| fizzbuzz | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/FizzBuzz)|   
 | flagquiz | [Flag Quiz](https://open.kattis.com/problems/flagquiz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flag%20Quiz)|   
 | flexible | [Flexible Spaces](https://open.kattis.com/problems/flexible) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flexible%20Spaces)|   
 | flowshop | [Flow Shop](https://open.kattis.com/problems/flowshop) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Flow%20Shop)|   

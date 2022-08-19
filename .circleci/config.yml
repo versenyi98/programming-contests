@@ -1,0 +1,17 @@
+version: 2.1
+
+jobs:
+  test-sample-inputs:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - checkout
+      - run: "sudo apt install python3-pip -y"
+      - run: "pip3 install lxml"
+      - run: "git show $CIRCLE_SHA1 --name-only  --pretty= > changed_files.txt"
+      - run: "python3 test.py"
+
+workflows:
+  test-sample-inputs-workflow:
+    jobs:
+      - test-sample-inputs

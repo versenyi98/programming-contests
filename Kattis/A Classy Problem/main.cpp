@@ -23,6 +23,7 @@ int main() {
 			cin >> name >> class_ >> trash;
 			name.pop_back();
 
+
 			v[n].second = name;
 			vector<int> vv;
 

@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
 
+
 	int arr[4][4];
 	int rotated[4][4];
 	bool changed[4][4];

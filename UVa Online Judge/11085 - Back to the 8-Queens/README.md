@@ -1,1 +1,1 @@
-https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2026
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=2026

@@ -1,1 +1,1 @@
-https://onlinejudge.org/external/110/11049.pdf
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1990

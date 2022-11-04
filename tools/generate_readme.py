@@ -21,7 +21,7 @@ def generate_table_for_uva(directory: Path) -> str:
         uva_url = data["Online Judge URL"]
         external_url = data["External URL"]
 
-        path_in_repo = f"./{directory.stem}/{problem_directory}/{problem_id} - {name}"
+        path_in_repo = f"./{directory.stem}/{problem_directory}"
         buffer += f"| {problem_id} | [{name}]({uva_url}) | [PDF]({external_url}) | [Solution]({quote(path_in_repo)})|\n"
 
     return buffer

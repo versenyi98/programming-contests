@@ -22,7 +22,7 @@ def generate_table_for_uva(directory: Path) -> str:
         external_url = data["External URL"]
 
         path_in_repo = f"./{directory.stem}/{problem_directory}/{problem_id} - {name}"
-        buffer += f"| {problem_id} | [{name}]({uva_url}) | [PDF]({external_url}) | [Solution](./UVa Online Judge/{quote(path_in_repo)})|\n"
+        buffer += f"| {problem_id} | [{name}]({uva_url}) | [PDF]({external_url}) | [Solution]({quote(path_in_repo)})|\n"
 
     return buffer
 

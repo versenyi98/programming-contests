@@ -9,7 +9,7 @@ def generate_table_for_uva(directory: Path) -> str:
     buffer = "| ID | UVa Online Judge | External | Link to solution |\n"
     buffer += "|:---|:---|:---|:---:|\n"
 
-    problem_directories = os.listdir(directory)
+    problem_directories = sorted(os.listdir(directory))
 
     for problem_directory in problem_directories:
 
@@ -31,7 +31,7 @@ def generate_table_for_kattis(directory: Path) -> str:
     buffer = "| ID | Link to description | Link to solution |\n"
     buffer += "|:---|:---|:---:|\n"
 
-    problem_directories = os.listdir(directory)
+    problem_directories = sorted(os.listdir(directory))
 
     for problem_directory in problem_directories:
 

@@ -70,6 +70,7 @@
 | escapewallmaria | [Escape Wall Maria](https://open.kattis.com/problems/escapewallmaria) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Escape%20Wall%20Maria)|
 | esej | [Esej](https://open.kattis.com/problems/esej) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Esej)|
 | evenup | [Even Up Solitaire](https://open.kattis.com/problems/evenup) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Even%20Up%20Solitaire)|
+| fyi | [FYI](https://open.kattis.com/problems/fyi) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/FYI)|
 | fenwick | [Fenwick Tree](https://open.kattis.com/problems/fenwick) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fenwick%20Tree)|
 | firefly | [Firefly](https://open.kattis.com/problems/firefly) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Firefly)|
 | fizzbuzz | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/FizzBuzz)|

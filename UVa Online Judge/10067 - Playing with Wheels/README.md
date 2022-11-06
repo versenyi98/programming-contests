@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 10067 | [Playing with Wheels](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1008) | [PDF](https://onlinejudge.org/external/100/10067.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10067%2520-%2520Playing%2520with%2520Wheels)|
+| 10067 | [Playing with Wheels](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1008) | [PDF](https://onlinejudge.org/external/100/10067.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10067%20-%20Playing%20with%20Wheels)|

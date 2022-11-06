@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 10336 | [Ranking the Languages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=1277) | [PDF](https://onlinejudge.org/external/103/10336.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10336%2520-%2520Ranking%2520the%2520Languages)|
+| 10336 | [Ranking the Languages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=667&page=show_problem&problem=1277) | [PDF](https://onlinejudge.org/external/103/10336.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10336%20-%20Ranking%20the%20Languages)|

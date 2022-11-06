@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 11658 | [Best Coalitions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=2705) | [PDF](https://onlinejudge.org/external/116/11658.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11658%2520-%2520Best%2520Coalitions)|
+| 11658 | [Best Coalitions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=2705) | [PDF](https://onlinejudge.org/external/116/11658.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/11658%20-%20Best%20Coalitions)|

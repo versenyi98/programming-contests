@@ -61,9 +61,9 @@ class UVaEntryBuilder(EntryBuilder):
         url = data["Online Judge URL"]
         external_url = data["External URL"]
 
-        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/UVa Online Judge/{quote(f'{id} - {name}')}"
+        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/{quote(f'UVa Online Judge/{id} - {name}')}"
 
-        self.entry = f"| {id} | [{name}]({url}) | [PDF]({external_url}) | [Solution]({quote(path_to_solution)})|\n"
+        self.entry = f"| {id} | [{name}]({url}) | [PDF]({external_url}) | [Solution]({path_to_solution})|\n"
         return self
 
 

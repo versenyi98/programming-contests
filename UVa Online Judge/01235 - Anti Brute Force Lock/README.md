@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 01235 | [Anti Brute Force Lock](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3676) | [PDF](https://onlinejudge.org/external/12/1235.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01235%2520-%2520Anti%2520Brute%2520Force%2520Lock)|
+| 01235 | [Anti Brute Force Lock](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3676) | [PDF](https://onlinejudge.org/external/12/1235.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01235%20-%20Anti%20Brute%20Force%20Lock)|

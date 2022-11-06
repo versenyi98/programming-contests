@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 01610 | [Party Games](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=825&page=show_problem&problem=4485) | [PDF](https://onlinejudge.org/external/16/1610.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01610%2520-%2520Party%2520Games)|
+| 01610 | [Party Games](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=825&page=show_problem&problem=4485) | [PDF](https://onlinejudge.org/external/16/1610.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/01610%20-%20Party%20Games)|

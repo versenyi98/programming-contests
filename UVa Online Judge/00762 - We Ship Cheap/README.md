@@ -1,3 +1,3 @@
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
-| 00762 | [We Ship Cheap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) | [PDF](https://onlinejudge.org/external/7/762.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00762%2520-%2520We%2520Ship%2520Cheap)|
+| 00762 | [We Ship Cheap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) | [PDF](https://onlinejudge.org/external/7/762.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00762%20-%20We%20Ship%20Cheap)|

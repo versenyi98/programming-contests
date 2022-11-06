@@ -1,95 +1,9 @@
 import os
 import json
 
-from abc import ABC, abstractmethod
-from urllib.parse import quote
 from pathlib import Path
 
-import constants
-
-
-class HeaderProvider(ABC):
-    @abstractmethod
-    def get(self):
-        pass
-
-
-class KattisHeaderProvider(HeaderProvider):
-    def get(self):
-        header = "| ID | Link to description | Link to solution |\n" + \
-                    "|:---|:---|:---:|\n"
-
-        return header
-
-
-class UVaHeaderProvider(HeaderProvider):
-    def get(self):
-        header = "| ID | UVa Online Judge | External | Link to solution |\n" + \
-                    "|:---|:---|:---|:---:|\n"
-
-        return header
-
-
-class EntryBuilder(ABC):
-    def __init__(self):
-        self.entry = ""
-
-    def get(self):
-        return self.entry
-
-    @abstractmethod
-    def build(self, data):
-        pass
-
-
-class KattisEntryBuilder(EntryBuilder):
-    def build(self, data):
-        name = data["Name"]
-        problem_id = data["ID"]
-        url = data["URL"]
-
-        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/Kattis/{quote(name)}"
-
-        self.entry = f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
-        return self
-
-
-class UVaEntryBuilder(EntryBuilder):
-    def build(self, data):
-        name = data["Name"]
-        id = data["ID"]
-        url = data["Online Judge URL"]
-        external_url = data["External URL"]
-
-        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/{quote(f'UVa Online Judge/{id} - {name}')}"
-
-        self.entry = f"| {id} | [{name}]({url}) | [PDF]({external_url}) | [Solution]({path_to_solution})|\n"
-        return self
-
-
-class ReadmeContentProvider(ABC):
-    @abstractmethod
-    def __init__(self):
-        self.entry_builder = None
-        self.header_provider = None
-
-    def get_header(self):
-        return self.header_provider.get()
-
-    def get_entry(self, data):
-        return self.entry_builder.build(data).get()
-
-
-class KattisReadmeContentProvider(ReadmeContentProvider):
-    def __init__(self):
-        self.entry_builder = KattisEntryBuilder()
-        self.header_provider = KattisHeaderProvider()
-
-
-class UVaReadmeContentProvider(ReadmeContentProvider):
-    def __init__(self):
-        self.entry_builder = UVaEntryBuilder()
-        self.header_provider = UVaHeaderProvider()
+from readme_content_providers import KattisReadmeContentProvider, UVaReadmeContentProvider
 
 
 class ReadmeAppender:
@@ -172,8 +86,23 @@ def generate_readme(path, content_provider):
 
 def main():
     base_path = Path(__file__).parent.parent
-    generate_readme(base_path / "Kattis", KattisReadmeContentProvider())
-    generate_readme(base_path / "UVa Online Judge", UVaReadmeContentProvider())
+
+    content_provider_mapping = {
+        "Kattis": KattisReadmeContentProvider(),
+        "UVa Online Judge": UVaReadmeContentProvider()
+    }
+
+    for folder in content_provider_mapping:
+        generate_readme(base_path / folder, content_provider_mapping[folder])
+
+    with open(base_path / "README.md", "w") as readme_handle:
+        for folder in content_provider_mapping:
+            readme_handle.write(f"### {folder}\n")
+
+            with open(base_path / folder / "README.md", "r") as sub_readme_handle:
+                sub_readme_content = sub_readme_handle.read()
+
+            readme_handle.writelines(sub_readme_content)
 
 
 if __name__ == "__main__":

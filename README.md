@@ -104,6 +104,7 @@
 | islands3 | [Islands](https://open.kattis.com/problems/islands3) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Islands)|
 | islands | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Islands%20in%20the%20Data%20Stream)|
 | jackolanternjuxtaposition | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Jack-O%27-Lantern%20Juxtaposition)|
+| jobexpenses | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Job%20Expenses)|
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|
 | judging | [Judging Troubles](https://open.kattis.com/problems/judging) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Judging%20Troubles)|
 | jugglingpatterns | [Juggling Patterns](https://open.kattis.com/problems/jugglingpatterns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Juggling%20Patterns)|

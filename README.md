@@ -79,6 +79,7 @@
 | freeweights | [Free Weights](https://open.kattis.com/problems/freeweights) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Free%20Weights)|
 | froshweek2 | [Frosh Week](https://open.kattis.com/problems/froshweek2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Frosh%20Week)|
 | funhouse | [Fun House](https://open.kattis.com/problems/funhouse) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Fun%20House)|
+| greatswercporto | [GREAT + SWERC = PORTO](https://open.kattis.com/problems/greatswercporto) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/GREAT%20%2B%20SWERC%20%3D%20PORTO)|
 | gcpc | [Galactic Collegiate Programming Contest](https://open.kattis.com/problems/gcpc) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Galactic%20Collegiate%20Programming%20Contest)|
 | throwns | [Game of Throwns](https://open.kattis.com/problems/throwns) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Game%20of%20Throwns)|
 | geppetto | [Geppetto](https://open.kattis.com/problems/geppetto) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Geppetto)|

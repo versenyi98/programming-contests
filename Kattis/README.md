@@ -116,6 +116,7 @@
 | lektira | [Lektira](https://open.kattis.com/problems/lektira) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Lektira)|
 | walls | [Lifting Walls](https://open.kattis.com/problems/walls) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Lifting%20Walls)|
 | litespace    | [Litespace](https://open.kattis.com/problems/litespace   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Litespace)|
+| logo | [Logo](https://open.kattis.com/problems/logo) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Logo)|
 | lostmap | [Lost Map](https://open.kattis.com/problems/lostmap) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Lost%20Map)|
 | magicalcows    | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|
 | mali | [Mali](https://open.kattis.com/problems/mali) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Mali)|

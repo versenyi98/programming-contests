@@ -1,0 +1,3 @@
+| ID | UVa Online Judge | External | Link to solution |
+|:---|:---|:---|:---:|
+| 10610 | [Gopher and Hawks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=676&page=show_problem&problem=1551) | [PDF](https://onlinejudge.org/external/106/10610.pdf) | [Solution](https%3A//github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10610%2520-%2520Gopher%2520and%2520Hawks)|

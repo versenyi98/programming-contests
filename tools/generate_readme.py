@@ -1,130 +1,179 @@
 import os
 import json
 
+from abc import ABC, abstractmethod
 from urllib.parse import quote
 from pathlib import Path
 
 import constants
 
 
-class KattisHeaderProvider:
-    def get_header(self):
+class HeaderProvider(ABC):
+    @abstractmethod
+    def get(self):
+        pass
+
+
+class KattisHeaderProvider(HeaderProvider):
+    def get(self):
         header = "| ID | Link to description | Link to solution |\n" + \
                     "|:---|:---|:---:|\n"
 
         return header
 
 
-class KattisEntryBuilder:
-    def __init__(self, data):
+class UVaHeaderProvider(HeaderProvider):
+    def get(self):
+        header = "| ID | UVa Online Judge | External | Link to solution |\n" + \
+                    "|:---|:---|:---|:---:|\n"
+
+        return header
+
+
+class EntryBuilder(ABC):
+    def __init__(self):
         self.entry = ""
-        self.data = data
-
-    def build(self):
-        name = self.data["Name"]
-        problem_id = self.data["ID"]
-        url = self.data["URL"]
-
-        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/Kattis/{quote(name)}"
-
-        self.entry += f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
 
     def get(self):
         return self.entry
 
+    @abstractmethod
+    def build(self, data):
+        pass
 
-class ReadmeWriter:
+
+class KattisEntryBuilder(EntryBuilder):
+    def build(self, data):
+        name = data["Name"]
+        problem_id = data["ID"]
+        url = data["URL"]
+
+        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/Kattis/{quote(name)}"
+
+        self.entry = f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
+        return self
+
+
+class UVaEntryBuilder(EntryBuilder):
+    def build(self, data):
+        name = data["Name"]
+        id = data["ID"]
+        url = data["Online Judge URL"]
+        external_url = data["External URL"]
+
+        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/UVa Online Judge/{quote(f'{id} - {name}')}"
+
+        self.entry = f"| {id} | [{name}]({url}) | [PDF]({external_url}) | [Solution]({quote(path_to_solution)})|\n"
+        return self
+
+
+class ReadmeContentProvider(ABC):
+    @abstractmethod
     def __init__(self):
-        self.generators = []
+        self.entry_builder = None
+        self.header_provider = None
+
+    def get_header(self):
+        return self.header_provider.get()
+
+    def get_entry(self, data):
+        return self.entry_builder.build(data).get()
+
+
+class KattisReadmeContentProvider(ReadmeContentProvider):
+    def __init__(self):
+        self.entry_builder = KattisEntryBuilder()
+        self.header_provider = KattisHeaderProvider()
+
+
+class UVaReadmeContentProvider(ReadmeContentProvider):
+    def __init__(self):
+        self.entry_builder = UVaEntryBuilder()
+        self.header_provider = UVaHeaderProvider()
+
+
+class ReadmeAppender:
+    def __init__(self):
+        self.writers = []
 
     def write(self, text):
-        for generator in self.generators:
-            generator.write(text)
+        for writer in self.writers:
+            writer.write(text)
 
-    def add_generator(self, generator):
-        self.generators.append(generator)
+    def add_writer(self, writer):
+        self.writers.append(writer)
 
-    def remove_generator(self, generator):
-        self.generators.remove(generator)
+    def remove_writer(self, writer):
+        self.writers.remove(writer)
 
 
-class ReadmeGenerator:
-    def __init__(self, file_name, header_provider):
-        self.file_name = file_name
-        self.writer = None
-        self.header_provider = header_provider
+class ReadmeWriter:
+    def __init__(self, path, content_provider):
+        self.readme_appender = None
+        self.content_provider = content_provider
+        self.path = path
 
-    def set_writer(self, writer):
-        if self.writer:
-            self.writer.remove_generator(self)
+    def set_readme_appender(self, readme_appender):
+        if self.readme_appender:
+            self.readme_appender.remove_generator(self)
 
-        self.writer = writer
-        self.writer.add_generator(self)
+        self.readme_appender = readme_appender
+        self.readme_appender.add_writer(self)
 
     def __enter__(self):
-        self.file = open(self.file_name, 'w')
-        self.file.write(self.header_provider.get_header())
+        print(f"Opening {self.path}")
+        self.file = open(self.path, 'w')
+        self.file.write(self.content_provider.get_header())
         return self
 
     def __exit__(self, exc_type, exc_value, tb):
-        self.writer.remove_generator(self)
+        print(f"Closing {self.path}")
+        self.readme_appender.remove_writer(self)
         self.file.close()
 
     def write(self, text):
+        print(f"\tWrite into {self.path}")
         self.file.write(text)
 
 
-def generate_table_for_uva(directory: Path) -> str:
-    buffer = "| ID | UVa Online Judge | External | Link to solution |\n"
-    buffer += "|:---|:---|:---|:---:|\n"
+class RecursiveReadmeWriter:
+    def __init__(self, path, content_provider):
+        self.path = path
+        self.content_provider = content_provider
+        self.readme_appender = ReadmeAppender()
 
-    problem_directories = sorted(os.listdir(directory))
+    def generate(self):
 
-    for problem_directory in problem_directories:
+        def generate_recursive(path: Path):
+            print(f"Generate recursive: {path}")
+            with ReadmeWriter(path / "README.md", self.content_provider) as readme_handle:
+                readme_handle.set_readme_appender(self.readme_appender)
 
-        with open(directory / str(problem_directory) / "info.json") as info_json:
-            data = json.load(info_json)
+                info_json = path / "info.json"
+                if info_json.exists():
+                    with open(info_json, "r") as json_file:
+                        data = json.load(json_file)
+                    entry = self.content_provider.get_entry(data)
+                    self.readme_appender.write(entry)
 
-        name = data["Name"]
-        problem_id = data["ID"]
-        uva_url = data["Online Judge URL"]
-        external_url = data["External URL"]
+                content = sorted(os.listdir(path))
+                for element in content:
+                    element_path = path / str(element)
+                    if os.path.isdir(element_path):
+                        generate_recursive(element_path)
 
-        path_in_repo = f"./{directory.stem}/{problem_directory}"
-        buffer += f"| {problem_id} | [{name}]({uva_url}) | [PDF]({external_url}) | [Solution]({quote(path_in_repo)})|\n"
+        return generate_recursive(self.path)
 
-    return buffer
+
+def generate_readme(path, content_provider):
+    readme_writer = RecursiveReadmeWriter(path, content_provider)
+    readme_writer.generate()
 
 
 def main():
     base_path = Path(__file__).parent.parent
-    kattis_path = base_path / "Kattis"
-    kattis_content = sorted(os.listdir(kattis_path))
-
-    readme_writer = ReadmeWriter()
-
-    with ReadmeGenerator(kattis_path / "README.md", KattisHeaderProvider()) as kattis_generator:
-        kattis_generator.set_writer(readme_writer)
-
-        for element in kattis_content:
-            task_path = kattis_path / str(element)
-
-            if not os.path.isdir(task_path):
-                continue
-
-            with ReadmeGenerator(task_path / "README.md", KattisHeaderProvider()) as task_generator:
-                task_generator.set_writer(readme_writer)
-
-                task_info_path = task_path / "info.json"
-
-                with open(task_info_path, "r") as task_info_handle:
-                    task_data = json.load(task_info_handle)
-
-                entry_builder = KattisEntryBuilder(task_data)
-                entry_builder.build()
-                entry = entry_builder.get()
-
-                readme_writer.write(entry)
+    generate_readme(base_path / "Kattis", KattisReadmeContentProvider())
+    generate_readme(base_path / "UVa Online Judge", UVaReadmeContentProvider())
 
 
 if __name__ == "__main__":

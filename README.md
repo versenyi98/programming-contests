@@ -101,6 +101,7 @@
 | increasingsubsequence | [Increasing Subsequence](https://open.kattis.com/problems/increasingsubsequence) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Increasing%20Subsequence)|
 | integerlists | [Integer Lists](https://open.kattis.com/problems/integerlists) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Integer%20Lists)|
 | islandhopping | [Island Hopping](https://open.kattis.com/problems/islandhopping) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Island%20Hopping)|
+| islands3 | [Islands](https://open.kattis.com/problems/islands3) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Islands)|
 | islands | [Islands in the Data Stream](https://open.kattis.com/problems/islands) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Islands%20in%20the%20Data%20Stream)|
 | joinstrings | [Join Strings](https://open.kattis.com/problems/joinstrings) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Join%20Strings)|
 | judging | [Judging Troubles](https://open.kattis.com/problems/judging) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Judging%20Troubles)|

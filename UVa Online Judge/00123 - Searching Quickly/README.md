@@ -1,1 +1,3 @@
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=59
+| ID | UVa Online Judge | External | Link to solution |
+|:---|:---|:---|:---:|
+| 00123 | [Searching Quickly](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=625&page=show_problem&problem=59) | [PDF](https://onlinejudge.org/external/1/123.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/00123%20-%20Searching%20Quickly)|

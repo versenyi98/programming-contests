@@ -1,2 +1,3 @@
-https://progcont.hu/progcont/100331/?pid=6935   
-https://open.kattis.com/problems/brickpartition   
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| brickpartition    | [Bricks](https://open.kattis.com/problems/brickpartition   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Bricks)|

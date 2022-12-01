@@ -1,5 +1,3 @@
-https://progcont.hu/progcont/100330/?pid=12390
-
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=problem_stats&problemid=3812&category=0
-
-https://open.kattis.com/problems/ballotboxes
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| ballotboxes | [Distributing Ballot Boxes](https://open.kattis.com/problems/ballotboxes) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Distributing%20Ballot%20Boxes)|

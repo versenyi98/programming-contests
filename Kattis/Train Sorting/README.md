@@ -1,3 +1,3 @@
-https://progcont.hu/progcont/100284/?pid=200071
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=651&page=show_problem&problem=2451
-https://open.kattis.com/problems/trainsorting
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| trainsorting | [Train Sorting](https://open.kattis.com/problems/trainsorting) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Train%20Sorting)|

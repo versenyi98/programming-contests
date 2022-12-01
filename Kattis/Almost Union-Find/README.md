@@ -1,2 +1,3 @@
-https://open.kattis.com/problems/almostunionfind
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3138
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|

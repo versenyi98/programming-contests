@@ -1,2 +1,3 @@
-https://progcont.hu/progcont/100292/?locale=en&pid=201334   
-https://open.kattis.com/problems/bubbletea
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| bubbletea | [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Delicious%20Bubble%20Tea)|

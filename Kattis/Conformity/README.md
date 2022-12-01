@@ -1,2 +1,3 @@
-https://open.kattis.com/problems/conformity
-https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=2261&mosmsg=Submission+received+with+ID+25412460
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| conformity | [Conformity](https://open.kattis.com/problems/conformity) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Conformity)|

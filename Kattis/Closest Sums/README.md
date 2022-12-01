@@ -1,2 +1,3 @@
-https://open.kattis.com/problems/closestsums
-https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1428
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| closestsums | [Closest Sums](https://open.kattis.com/problems/closestsums) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Closest%20Sums)|

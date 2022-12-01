@@ -1,2 +1,3 @@
-https://open.kattis.com/problems/magicalcows   
-https://maps20.kattis.com/problems/maps20.magicalcows   
+| ID | Link to description | Link to solution |
+|:---|:---|:---:|
+| magicalcows    | [Magical Cows](https://open.kattis.com/problems/magicalcows   ) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Magical%20Cows)|

@@ -1,1 +1,3 @@
-https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=626&page=show_problem&problem=1205
+| ID | UVa Online Judge | External | Link to solution |
+|:---|:---|:---|:---:|
+| 10264 | [The Most Potent Corner](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=626&page=show_problem&problem=1205) | [PDF](https://onlinejudge.org/external/102/10264.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/10264%20-%20The%20Most%20Potent%20Corner)|

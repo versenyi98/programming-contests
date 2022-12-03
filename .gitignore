@@ -3,3 +3,4 @@ main
 out
 submit.py
 .kattisrc
+**/__pycache__

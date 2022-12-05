@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
-from readme_entry_builders import KattisEntryBuilder, UVaEntryBuilder
-from readme_header_providers import KattisHeaderProvider, UVaHeaderProvider
+from readme_entry_builders import KattisEntryBuilder, UVaEntryBuilder, LeetCodeEntryBuilder
+from readme_header_providers import KattisHeaderProvider, UVaHeaderProvider, LeetCodeHeaderProvider
 
 
 class ReadmeContentProvider(ABC):
@@ -27,3 +27,9 @@ class UVaReadmeContentProvider(ReadmeContentProvider):
     def __init__(self):
         self.entry_builder = UVaEntryBuilder()
         self.header_provider = UVaHeaderProvider()
+
+
+class LeetCodeContentProvider(ReadmeContentProvider):
+    def __init__(self):
+        self.entry_builder = LeetCodeEntryBuilder()
+        self.header_provider = LeetCodeHeaderProvider()

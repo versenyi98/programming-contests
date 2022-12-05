@@ -3,7 +3,7 @@ import json
 
 from pathlib import Path
 
-from readme_content_providers import KattisReadmeContentProvider, UVaReadmeContentProvider
+from readme_content_providers import KattisReadmeContentProvider, UVaReadmeContentProvider, LeetCodeContentProvider
 
 
 class ReadmeAppender:
@@ -36,7 +36,7 @@ class ReadmeWriter:
 
     def __enter__(self):
         print(f"Opening {self.path}")
-        self.file = open(self.path, 'w')
+        self.file = open(self.path, 'w', encoding="utf-8")
         self.file.write(self.content_provider.get_header())
         return self
 
@@ -89,7 +89,8 @@ def main():
 
     content_provider_mapping = {
         "Kattis": KattisReadmeContentProvider(),
-        "UVa Online Judge": UVaReadmeContentProvider()
+        "UVa Online Judge": UVaReadmeContentProvider(),
+        "LeetCode": LeetCodeContentProvider()
     }
 
     for folder in content_provider_mapping:

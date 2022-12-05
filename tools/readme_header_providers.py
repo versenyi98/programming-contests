@@ -10,7 +10,7 @@ class HeaderProvider(ABC):
 class KattisHeaderProvider(HeaderProvider):
     def get(self):
         header = "| ID | Link to description | Link to solution |\n" + \
-                    "|:---|:---|:---:|\n"
+                 "|:---|:---|:---:|\n"
 
         return header
 
@@ -18,6 +18,13 @@ class KattisHeaderProvider(HeaderProvider):
 class UVaHeaderProvider(HeaderProvider):
     def get(self):
         header = "| ID | UVa Online Judge | External | Link to solution |\n" + \
-                    "|:---|:---|:---|:---:|\n"
+                 "|:---|:---|:---|:---:|\n"
 
+        return header
+
+
+class LeetCodeHeaderProvider(HeaderProvider):
+    def get(self):
+        header = "| ID | Link to description | Link to solution\n" + \
+                 "|:---|:---|:---:|\n"
         return header

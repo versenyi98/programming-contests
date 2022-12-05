@@ -1,3 +1,13 @@
+### Advent of Code
+| Year | Day | Link to description | Link to solution
+|:---|:---|:---|:---:|
+| 2021 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2021/Day%201%20-%20Sonar%20Sweep)|
+| 2021 | 2 | [Dive!](https://adventofcode.com/2021/day/2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2021/Day%202%20-%20Dive%21)|
+| 2022 | 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%201%20-%20Calorie%20Counting)|
+| 2022 | 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%202%20-%20Rock%20Paper%20Scissors)|
+| 2022 | 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%203%20-%20Rucksack%20Reorganization)|
+| 2022 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%204%20-%20Camp%20Cleanup)|
+| 2022 | 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%205%20-%20Supply%20Stacks)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|
@@ -189,6 +199,14 @@
 | wizardofodds | [Wizard of Odds](https://open.kattis.com/problems/wizardofodds) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Wizard%20of%20Odds)|
 | restaurant | [Working at the Restaurant](https://open.kattis.com/problems/restaurant) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Working%20at%20the%20Restaurant)|
 | zagrade | [Zagrade](https://open.kattis.com/problems/zagrade) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Zagrade)|
+### LeetCode
+| ID | Link to description | Link to solution
+|:---|:---|:---:|
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
+| 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2256.%20Minimum%20Average%20Difference)|
 ### UVa Online Judge
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|
@@ -558,11 +576,3 @@
 | 13275 | [Leap Birthdays](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=881&page=show_problem&problem=5199) | [PDF](https://onlinejudge.org/external/132/13275.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/13275%20-%20Leap%20Birthdays)|
 | 13278 | [Angry Birds Transformers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5202) | [PDF](https://onlinejudge.org/external/132/13278.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/13278%20-%20Angry%20Birds%20Transformers)|
 | 13287 | [Shattered Cake](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5211) | [PDF](https://onlinejudge.org/external/132/13287.pdf) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/UVa%20Online%20Judge/13287%20-%20Shattered%20Cake)|
-### LeetCode
-| ID | Link to description | Link to solution
-|:---|:---|:---:|
-| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|
-| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
-| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
-| 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2256.%20Minimum%20Average%20Difference)|

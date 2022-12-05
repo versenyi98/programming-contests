@@ -3,7 +3,8 @@ import json
 
 from pathlib import Path
 
-from readme_content_providers import KattisReadmeContentProvider, UVaReadmeContentProvider, LeetCodeContentProvider
+from readme_content_providers import KattisReadmeContentProvider, UVaReadmeContentProvider,\
+    LeetCodeContentProvider, AoCReadmeContentProvider
 
 
 class ReadmeAppender:
@@ -88,9 +89,10 @@ def main():
     base_path = Path(__file__).parent.parent
 
     content_provider_mapping = {
+        "Advent of Code": AoCReadmeContentProvider(),
         "Kattis": KattisReadmeContentProvider(),
+        "LeetCode": LeetCodeContentProvider(),
         "UVa Online Judge": UVaReadmeContentProvider(),
-        "LeetCode": LeetCodeContentProvider()
     }
 
     for folder in content_provider_mapping:

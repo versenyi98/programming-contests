@@ -53,3 +53,16 @@ class LeetCodeEntryBuilder(EntryBuilder):
 
         self.entry = f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
         return self
+
+
+class AoCEntryBuilder(EntryBuilder):
+    def build(self, data):
+        name = data["Name"]
+        day = data["Day"]
+        year = data["Year"]
+        url = data["URL"]
+
+        path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/{quote(f'Advent of Code/{year}/Day {day} - {name}')}"
+
+        self.entry = f"| {year} | {day} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
+        return self

@@ -28,3 +28,10 @@ class LeetCodeHeaderProvider(HeaderProvider):
         header = "| ID | Link to description | Link to solution\n" + \
                  "|:---|:---|:---:|\n"
         return header
+
+
+class AoCHeaderProvider(HeaderProvider):
+    def get(self):
+        header = "| Year | Day | Link to description | Link to solution\n" + \
+                 "|:---|:---|:---|:---:|\n"
+        return header

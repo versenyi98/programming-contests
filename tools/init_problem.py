@@ -10,7 +10,7 @@ def prepare_workspace_for_problem(url: str):
 
     if url.find("kattis") != -1:
         workspace_creator = KattisWorkspaceCreator(url)
-    elif url.find("adventofcode"):
+    elif url.find("adventofcode") != -1:
         workspace_creator = AocWorkspaceCreator(url)
     elif url.find(". ") != -1:
         workspace_creator = LeetCodeWorkspaceCreator(url)

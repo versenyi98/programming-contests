@@ -10,3 +10,4 @@
 | 2022 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%204%20-%20Camp%20Cleanup)|
 | 2022 | 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%205%20-%20Supply%20Stacks)|
 | 2022 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%206%20-%20Tuning%20Trouble)|
+| 2022 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%207%20-%20No%20Space%20Left%20On%20Device)|

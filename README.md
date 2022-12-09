@@ -14,6 +14,7 @@
 | 2022 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%206%20-%20Tuning%20Trouble)|
 | 2022 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%207%20-%20No%20Space%20Left%20On%20Device)|
 | 2022 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%208%20-%20Treetop%20Tree%20House)|
+| 2022 | 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%209%20-%20Rope%20Bridge)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|

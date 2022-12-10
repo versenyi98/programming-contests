@@ -36,18 +36,15 @@ class ReadmeWriter:
         self.readme_appender.add_writer(self)
 
     def __enter__(self):
-        print(f"Opening {self.path}")
         self.file = open(self.path, 'w', encoding="utf-8")
         self.file.write(self.content_provider.get_header())
         return self
 
     def __exit__(self, exc_type, exc_value, tb):
-        print(f"Closing {self.path}")
         self.readme_appender.remove_writer(self)
         self.file.close()
 
     def write(self, text):
-        print(f"\tWrite into {self.path}")
         self.file.write(text)
 
 
@@ -60,7 +57,6 @@ class RecursiveReadmeWriter:
     def generate(self):
 
         def generate_recursive(path: Path):
-            print(f"Generate recursive: {path}")
             with ReadmeWriter(path / "README.md", self.content_provider) as readme_handle:
                 readme_handle.set_readme_appender(self.readme_appender)
 

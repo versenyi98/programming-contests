@@ -36,6 +36,7 @@ class LeetCodeContentProvider(ReadmeContentProvider):
         self.entry_builder = LeetCodeEntryBuilder()
         self.header_provider = LeetCodeHeaderProvider()
 
+
 class AoCReadmeContentProvider(ReadmeContentProvider):
     def __init__(self):
         self.entry_builder = AoCEntryBuilder()

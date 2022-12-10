@@ -62,7 +62,7 @@ class AoCEntryBuilder(EntryBuilder):
         year = data["Year"]
         url = data["URL"]
 
-        day = "%22d" % int(day)
+        day = "%02d" % int(day)
 
         path_to_solution = f"{constants.GITHUB_MASTER_BRANCH}/{quote(f'Advent of Code/{year}/Day {day} - {name}')}"
 

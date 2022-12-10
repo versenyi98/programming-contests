@@ -226,6 +226,7 @@
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2256.%20Minimum%20Average%20Difference)|
+| 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2498.%20Frog%20Jump%20II)|
 ### UVa Online Judge
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|

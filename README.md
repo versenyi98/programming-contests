@@ -7,6 +7,7 @@
 | 2021 | 4 | [Giant Squid](https://adventofcode.com/2021/day/4) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2021/Day%204%20-%20Giant%20Squid)|
 | 2021 | 5 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2021/Day%205%20-%20Hydrothermal%20Venture)|
 | 2022 | 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%201%20-%20Calorie%20Counting)|
+| 2022 | 10 | [CathodeRay Tube](https://adventofcode.com/2022/day/10) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2010%20-%20CathodeRay%20Tube)|
 | 2022 | 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%202%20-%20Rock%20Paper%20Scissors)|
 | 2022 | 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%203%20-%20Rucksack%20Reorganization)|
 | 2022 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%204%20-%20Camp%20Cleanup)|
@@ -226,6 +227,7 @@
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)|
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1704.%20Determine%20if%20String%20Halves%20Are%20Alike)|
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2256.%20Minimum%20Average%20Difference)|
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2496.%20Maximum%20Value%20of%20a%20String%20in%20an%20Array)|
 | 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2497.%20Maximum%20Star%20Sum%20of%20a%20Graph)|
 | 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2498.%20Frog%20Jump%20II)|
 ### UVa Online Judge

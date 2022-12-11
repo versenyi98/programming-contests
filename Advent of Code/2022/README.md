@@ -10,3 +10,4 @@
 | 2022 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2008%20-%20Treetop%20Tree%20House)|
 | 2022 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2009%20-%20Rope%20Bridge)|
 | 2022 | 10 | [CathodeRay Tube](https://adventofcode.com/2022/day/10) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2010%20-%20CathodeRay%20Tube)|
+| 2022 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2011%20-%20Monkey%20in%20the%20Middle)|

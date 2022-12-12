@@ -11,3 +11,4 @@
 | 2022 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2009%20-%20Rope%20Bridge)|
 | 2022 | 10 | [CathodeRay Tube](https://adventofcode.com/2022/day/10) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2010%20-%20CathodeRay%20Tube)|
 | 2022 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2011%20-%20Monkey%20in%20the%20Middle)|
+| 2022 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2012%20-%20Hill%20Climbing%20Algorithm)|

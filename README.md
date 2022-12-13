@@ -18,6 +18,7 @@
 | 2022 | 10 | [CathodeRay Tube](https://adventofcode.com/2022/day/10) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2010%20-%20CathodeRay%20Tube)|
 | 2022 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2011%20-%20Monkey%20in%20the%20Middle)|
 | 2022 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2012%20-%20Hill%20Climbing%20Algorithm)|
+| 2022 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2013%20-%20Distress%20Signal)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|
@@ -236,6 +237,7 @@
 | 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2498.%20Frog%20Jump%20II)|
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
+| 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2502.%20Design%20Memory%20Allocator)|
 ### UVa Online Judge
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|

@@ -19,6 +19,7 @@
 | 2022 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2011%20-%20Monkey%20in%20the%20Middle)|
 | 2022 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2012%20-%20Hill%20Climbing%20Algorithm)|
 | 2022 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2013%20-%20Distress%20Signal)|
+| 2022 | 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2014%20-%20Regolith%20Reservoir)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|
@@ -226,6 +227,7 @@
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0931.%20Minimum%20Falling%20Path%20Sum)|
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0938.%20Range%20Sum%20of%20BST)|
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)|
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree)|

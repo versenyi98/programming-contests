@@ -13,3 +13,4 @@
 | 2022 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2011%20-%20Monkey%20in%20the%20Middle)|
 | 2022 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2012%20-%20Hill%20Climbing%20Algorithm)|
 | 2022 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2013%20-%20Distress%20Signal)|
+| 2022 | 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2014%20-%20Regolith%20Reservoir)|

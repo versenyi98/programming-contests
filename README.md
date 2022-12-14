@@ -241,6 +241,7 @@
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2500.%20Delete%20Greatest%20Value%20in%20Each%20Row)|
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2501.%20Longest%20Square%20Streak%20in%20an%20Array)|
 | 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2502.%20Design%20Memory%20Allocator)|
+| 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries)|
 ### UVa Online Judge
 | ID | UVa Online Judge | External | Link to solution |
 |:---|:---|:---|:---:|

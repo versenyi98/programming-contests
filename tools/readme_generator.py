@@ -67,6 +67,10 @@ class RecursiveReadmeWriter:
                     entry = self.content_provider.get_entry(data)
                     self.readme_appender.write(entry)
 
+                if os.path.exists(path / "DESCRIPTION.md"):
+                    with open(path / "DESCRIPTION.md", "r") as description_handle:
+                        readme_handle.write(description_handle.read())
+
                 content = sorted(os.listdir(path))
                 for element in content:
                     element_path = path / str(element)

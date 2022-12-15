@@ -1,7 +1,6 @@
 import sys
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
-import time
 
 
 lines = sys.stdin.read().split("\n")
@@ -22,11 +21,8 @@ beacons = set(sensor_beacon_mapping.values())
 sensors = set(sensor_beacon_mapping.keys())
 
 
-def part1():
-    line_to_watch = 2_000_000
-
+def get_segments(line_to_watch):
     segments = []
-
     for (sensor_x, sensor_y), (beacon_x, beacon_y) in sensor_beacon_mapping.items():
         radius = abs(sensor_x - beacon_x) + abs(sensor_y - beacon_y)
         dist = abs(sensor_y - line_to_watch)
@@ -35,7 +31,14 @@ def part1():
         if sensor_y - radius < line_to_watch < sensor_y + radius:
             segments.append([sensor_x - length, sensor_x + length])
 
-    segments = sorted(segments)
+    return sorted(segments)
+
+
+def part1():
+    line_to_watch = 2_000_000
+
+    segments = get_segments(line_to_watch)
+
     covered = 0
     current_begin = None
     current_end = None
@@ -54,6 +57,21 @@ def part1():
     return covered
 
 
+def part2():
+    for line_to_watch in range(4_000_000, -1, -1):
+        segments = get_segments(line_to_watch)
+
+        current_end = None
+
+        for begin, end in segments:
+            if current_end is None:
+                current_end = end
+
+            if 0 < current_end < begin < 4_000_000:
+                return (current_end + 1) * 4_000_000 + line_to_watch
+            current_end = max(current_end, end)
+
+
 def part2_fun():
     fig = plt.figure()
     ax = fig.add_subplot(111, aspect='equal')
@@ -63,13 +81,11 @@ def part2_fun():
 
     #plt.xlim([3_446_135, 3_446_140])
     #plt.ylim([3_204_477, 3_204_482])
-    plt.pause(5)
     for idx, ((sensor_x, sensor_y), (beacon_x, beacon_y)) in enumerate(sensor_beacon_mapping.items()):
         radius = abs(sensor_x - beacon_x) + abs(sensor_y - beacon_y)
         color = ['b', 'g', 'r', 'c', 'm', 'y', 'k'][idx % 7]
         x = [sensor_x - radius, sensor_x, sensor_x + radius, sensor_x]
         y = [sensor_y, sensor_y + radius, sensor_y, sensor_y - radius]
-        print(x, y)
         ax.add_patch(patches.Polygon(xy=list(zip(x, y)), fill=True, color=color))
         plt.show(block=False)
         plt.pause(0.1)
@@ -82,5 +98,6 @@ def part2_fun():
 
 
 print(part1())
+print(part2())
 print(part2_fun())
 

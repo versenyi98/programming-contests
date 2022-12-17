@@ -225,6 +225,7 @@
 | 32 | [Longest Valid Parenthesess](https://leetcode.com/problems/longest-valid-parenthesess/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0032.%20Longest%20Valid%20Parenthesess)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0070.%20Climbing%20Stairs)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0150.%20Evaluate%20Reverse%20Polish%20Notation)|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0198.%20House%20Robber)|
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0328.%20Odd%20Even%20Linked%20List)|

@@ -14,6 +14,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0232.%20Implement%20Queue%20using%20Stacks)|
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0328.%20Odd%20Even%20Linked%20List)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0739.%20Daily%20Temperatures)|
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0931.%20Minimum%20Falling%20Path%20Sum)|

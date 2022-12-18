@@ -23,6 +23,7 @@
 | 2022 | 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2015%20-%20Beacon%20Exclusion%20Zone)|
 | 2022 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2016%20-%20Proboscidea%20Volcanium)|
 | 2022 | 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2017%20-%20Pyroclastic%20Flow)|
+| 2022 | 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2018%20-%20Boiling%20Boulders)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|

@@ -24,6 +24,8 @@
 | 2022 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2016%20-%20Proboscidea%20Volcanium)|
 | 2022 | 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2017%20-%20Pyroclastic%20Flow)|
 | 2022 | 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2018%20-%20Boiling%20Boulders)|
+| 2022 | 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2019%20-%20Not%20Enough%20Minerals)|
+| 2022 | 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2020%20-%20Grove%20Positioning%20System)|
 ### Kattis
 | ID | Link to description | Link to solution |
 |:---|:---|:---:|
@@ -233,6 +235,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0328.%20Odd%20Even%20Linked%20List)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0739.%20Daily%20Temperatures)|
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0841.%20Keys%20and%20Rooms)|
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0931.%20Minimum%20Falling%20Path%20Sum)|

@@ -23,3 +23,5 @@
 | 2022 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2016%20-%20Proboscidea%20Volcanium)|
 | 2022 | 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2017%20-%20Pyroclastic%20Flow)|
 | 2022 | 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2018%20-%20Boiling%20Boulders)|
+| 2022 | 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2019%20-%20Not%20Enough%20Minerals)|
+| 2022 | 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2020%20-%20Grove%20Positioning%20System)|

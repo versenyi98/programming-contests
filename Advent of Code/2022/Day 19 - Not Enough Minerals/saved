@@ -1,0 +1,41 @@
+import sys
+
+lines = sys.stdin.read().split("\n")
+
+configuration = []
+for line in lines:
+    line = line.split()
+    ore_cost = int(line[6])
+    cla_cost = int(line[12])
+    ob_cost1 = int(line[18])
+    ob_cost2 = int(line[21])
+    ge_cost1 = int(line[27])
+    ge_cost2 = int(line[30])
+
+    configuration.append((
+        ((ore_cost, 0, 0, 0), (1, 0, 0, 0)),
+        ((cla_cost, 0, 0, 0), (0, 1, 0, 0)),
+        ((ob_cost1, ob_cost2, 0, 0), (0, 0, 1, 0)),
+        ((ge_cost1, 0, ge_cost2, 0), (0, 0, 0, 1)),
+        ((0, 0, 0, 0), (0, 0, 0, 0))
+    ))
+
+start_state = ((1, 0, 0, 0), (0, 0, 0, 0))
+
+part1 = 0
+
+for idx, config in enumerate(configuration):
+    print(f"Config {idx + 1}/{len(configuration)}")
+    queue = [start_state]
+    for t in range(24):
+        new_queue = []
+        for robots, minerals in queue:
+            for costs, new_robots in config:
+                if all(cost <= mineral for cost, mineral in zip(costs, minerals)):
+                    new_queue.append((
+                        tuple(robot + new_robot for robot, new_robot in zip(robots, new_robots)),
+                        tuple(mineral - cost + robot for mineral, cost, robot in zip(minerals, costs, robots))
+                    ))
+        queue = sorted(new_queue, key=lambda a: (a[1][3], a[0][3], a[0][2], a[0][1], a[0][0]), reverse=True)[:10000]
+    part1 += max(minerals[3] for _, minerals in queue) * (idx + 1)
+print(part1)

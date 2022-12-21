@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 from pathlib import Path
 from abc import ABC, abstractmethod
@@ -86,6 +87,10 @@ class AocWorkspaceCreator(WorkspaceCreator):
         year_dir = self.url.split('/')[-3]
         problem_dir = self.problem_scraper.get_problem_name()
         problem_dir = problem_dir.replace("-", "").strip().replace(":", " -")
+        problem_dir_split = problem_dir.split()
+        if len(problem_dir_split[1]) == 1:
+            problem_dir_split[1] = "0" + problem_dir_split[1]
+        problem_dir = " ".join(problem_dir_split)
         self.problem_dir = self.kattis_dir / year_dir / problem_dir
 
         if not os.path.exists(self.problem_dir):

@@ -239,6 +239,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0328.%20Odd%20Even%20Linked%20List)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0451.%20Sort%20Characters%20By%20Frequency)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0739.%20Daily%20Temperatures)|
+| 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0834.%20Sum%20of%20Distances%20in%20Tree)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0841.%20Keys%20and%20Rooms)|
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0876.%20Middle%20of%20the%20Linked%20List)|

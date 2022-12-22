@@ -47,6 +47,7 @@
 | aliennumbers | [Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alien%20Numbers)|
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|
+| amanda | [Amanda Lounges](https://open.kattis.com/problems/amanda) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Amanda%20Lounges)|
 | ants | [Ants](https://open.kattis.com/problems/ants) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ants)|
 | workstations | [Assigning Workstations](https://open.kattis.com/problems/workstations) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Assigning%20Workstations)|
 | control | [Association for Control Over Minds](https://open.kattis.com/problems/control) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Association%20for%20Control%20Over%20Minds)|

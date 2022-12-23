@@ -13,6 +13,7 @@
 | airconditioned | [Air Conditioned Minions](https://open.kattis.com/problems/airconditioned) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Air%20Conditioned%20Minions)|
 | aliennumbers | [Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alien%20Numbers)|
 | almostunionfind | [Almost Union-Find](https://open.kattis.com/problems/almostunionfind) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Almost%20Union-Find)|
+| alphabet | [Alphabet](https://open.kattis.com/problems/alphabet) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet)|
 | alphabetspam | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Alphabet%20Spam)|
 | amanda | [Amanda Lounges](https://open.kattis.com/problems/amanda) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Amanda%20Lounges)|
 | ants | [Ants](https://open.kattis.com/problems/ants) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Kattis/Ants)|

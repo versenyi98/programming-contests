@@ -13,8 +13,6 @@ class Solution(object):
         """
         values1 = [value for value in self.get_inorder(root1)]
         values2 = [value for value in self.get_inorder(root2)]
-        print(values1)
-        print(values2)
 
         return values1 == values2
 

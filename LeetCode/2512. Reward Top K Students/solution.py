@@ -4,13 +4,9 @@ class Solution:
         positive_feedback = set(positive_feedback)
         negative_feedback = set(negative_feedback)
 
-        print(positive_feedback)
-        print(negative_feedback)
-
         points = {id: (0, id) for id in student_id}
 
         for idx, rep in enumerate(report):
-            print(idx, rep)
             current_points = points[student_id[idx]]
 
             for word in rep.split():

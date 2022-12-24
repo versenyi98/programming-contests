@@ -7,7 +7,6 @@ class Solution:
         for idx in range(len(forts)):
             ffort = forts[idx]
             bfort = forts[len(forts) - 1 - idx]
-            print(idx, ffort, bfort)
             if ffort == -1:
                 if from_fort1 != -1:
                     maximum = max(maximum, idx - from_fort1 - 1)
@@ -16,7 +15,6 @@ class Solution:
                 from_fort1 = idx
 
             if bfort == -1:
-                print("Bfort", from_fort2, idx)
                 if from_fort2 != -1:
                     maximum = max(maximum, from_fort2 - (len(forts) - 1 - idx) - 1)
                 from_fort2 = -1

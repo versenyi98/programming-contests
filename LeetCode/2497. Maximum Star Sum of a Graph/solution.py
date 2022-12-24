@@ -20,7 +20,6 @@ class Solution:
                 neighbours = sorted([vals[other_idx] for other_idx in connected[idx]], reverse=True)
                 current_size = 0
                 while current_size < len(neighbours) and current_size != k and neighbours[current_size] >= 0:
-                    print(current_size, neighbours[current_size])
                     current_star_sum += neighbours[current_size]
                     current_size += 1
             maximum_star_sum = max(current_star_sum, maximum_star_sum)

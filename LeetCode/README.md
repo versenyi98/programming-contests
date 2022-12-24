@@ -43,3 +43,4 @@
 | 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2502.%20Design%20Memory%20Allocator)|
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2503.%20Maximum%20Number%20of%20Points%20From%20Grid%20Queries)|
 | 2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2513.%20Minimize%20the%20Maximum%20of%20Two%20Arrays)|
+| 2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/2514.%20Count%20Anagrams)|

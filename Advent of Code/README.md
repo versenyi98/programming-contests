@@ -30,3 +30,4 @@
 | 2022 | 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2021%20-%20Monkey%20Math)|
 | 2022 | 22 | [Monkey Map](https://adventofcode.com/2022/day/22) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2022%20-%20Monkey%20Map)|
 | 2022 | 23 | [Unstable Diffusion](https://adventofcode.com/2022/day/23) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2023%20-%20Unstable%20Diffusion)|
+| 2022 | 24 | [Blizzard Basin](https://adventofcode.com/2022/day/24) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/Advent%20of%20Code/2022/Day%2024%20-%20Blizzard%20Basin)|

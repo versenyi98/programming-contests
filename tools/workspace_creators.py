@@ -1,11 +1,10 @@
 import json
 import os
-import sys
 
 from pathlib import Path
 from abc import ABC, abstractmethod
 
-from problem_scrapers import KattisProblemScraper, AoCProblemScraper
+from problem_scrapers import KattisProblemScraper, AoCProblemScraper, UVaProblemScraper
 
 
 class WorkspaceCreator(ABC):
@@ -80,7 +79,7 @@ class AocWorkspaceCreator(WorkspaceCreator):
     def __init__(self, url):
         super().__init__(url)
         self.problem_scraper = AoCProblemScraper(url)
-        self.kattis_dir = self.base_path / "Advent of Code"
+        self.aoc_dir = self.base_path / "Advent of Code"
         self.problem_dir = None
 
     def create_directory(self):
@@ -91,7 +90,7 @@ class AocWorkspaceCreator(WorkspaceCreator):
         if len(problem_dir_split[1]) == 1:
             problem_dir_split[1] = "0" + problem_dir_split[1]
         problem_dir = " ".join(problem_dir_split)
-        self.problem_dir = self.kattis_dir / year_dir / problem_dir
+        self.problem_dir = self.aoc_dir / year_dir / problem_dir
 
         if not os.path.exists(self.problem_dir):
             os.mkdir(self.problem_dir)
@@ -111,6 +110,45 @@ class AocWorkspaceCreator(WorkspaceCreator):
             "URL": self.url,
             "Year": year,
             "Day": day
+        }
+
+        with open(self.problem_dir / "info.json", "w") as json_handle:
+            json.dump(info, json_handle, indent=4)
+
+
+class UVaWorkspaceCreator(WorkspaceCreator):
+    def __init__(self, url):
+        super().__init__(url)
+        self.problem_scraper = UVaProblemScraper(url)
+        self.uva_dir = self.base_path / "UVa Online Judge"
+        self.problem_dir = None
+
+    def create_directory(self):
+        problem_name = self.problem_scraper.get_problem_name()
+        problem_name_split = problem_name.split()
+        problem_name_split[0] = "0" * (5 - len(problem_name_split[0])) + problem_name_split[0]
+        problem_dir = " ".join(problem_name_split)
+
+        self.problem_dir = self.uva_dir / problem_dir
+
+        if not os.path.exists(self.problem_dir):
+            os.mkdir(self.problem_dir)
+
+    def write_testcases(self):
+        pass
+
+    def write_info_json(self):
+        problem_name = self.problem_scraper.get_problem_name()
+        number = problem_name.split()[0]
+        name = problem_name[len(number) + 3:]
+        id = "0" * (5 - len(number)) + number
+        external_url = f"https://onlinejudge.org/external/{int(number) // 100}/{number}.pdf"
+
+        info = {
+            "Name": name,
+            "ID": id,
+            "Online Judge URL": self.url,
+            "External URL": external_url
         }
 
         with open(self.problem_dir / "info.json", "w") as json_handle:

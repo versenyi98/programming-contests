@@ -2,7 +2,7 @@ import argparse
 
 import readme_generator
 from workspace_creators import NoWorkspaceCreator, AocWorkspaceCreator,\
-    KattisWorkspaceCreator, LeetCodeWorkspaceCreator
+    KattisWorkspaceCreator, LeetCodeWorkspaceCreator, UVaWorkspaceCreator
 
 
 def prepare_workspace_for_problem(url: str):
@@ -12,6 +12,8 @@ def prepare_workspace_for_problem(url: str):
         workspace_creator = KattisWorkspaceCreator(url)
     elif url.find("adventofcode") != -1:
         workspace_creator = AocWorkspaceCreator(url)
+    elif url.find("onlinejudge") != -1:
+        workspace_creator = UVaWorkspaceCreator(url)
     elif url.find(". ") != -1:
         workspace_creator = LeetCodeWorkspaceCreator(url)
 

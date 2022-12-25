@@ -41,3 +41,12 @@ class AoCProblemScraper(ProblemScraper):
     def get_problem_name(self):
         xpath_expression = "//h2"
         return self.tree.xpath(xpath_expression)[0].text
+
+
+class UVaProblemScraper(ProblemScraper):
+    def get_testcases(self):
+        pass
+
+    def get_problem_name(self):
+        xpath_expression = "//tr/td/h3"
+        return self.tree.xpath(xpath_expression)[0].text

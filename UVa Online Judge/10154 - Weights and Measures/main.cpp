@@ -15,10 +15,6 @@ int main() {
         return (f.second == s.second && f.first < s.first) || f.second < s.second;
     });
 
-    for (auto turtle : turtles) {
-        //cout << turtle.first << " " << turtle.second << endl;
-    }
-
     for (int i = 0; i < turtles.size(); i++) {
         weights[i] = vector<long>(i + 1, INT_MAX);
     }

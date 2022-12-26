@@ -7,6 +7,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0020.%20Valid%20Parentheses)|
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)|
 | 32 | [Longest Valid Parenthesess](https://leetcode.com/problems/longest-valid-parenthesess/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0032.%20Longest%20Valid%20Parenthesess)|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0055.%20Jump%20Game)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0070.%20Climbing%20Stairs)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/programming-contests/tree/master/LeetCode/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
